@@ -1,0 +1,1115 @@
+,match_id,Batsman,team,Run,Ball,4s,6s,SR,out/not_out
+0,1,Devon Conway,Chennai Super Kings,1,6,0,0,16.67,out
+1,1,Ruturaj Gaikwad,Chennai Super Kings,92,50,4,9,184.0,out
+2,1,Moeen Ali,Chennai Super Kings,23,17,4,1,135.29,out
+3,1,Ben Stokes,Chennai Super Kings,7,6,1,0,116.67,out
+4,1,Ambati Rayudu,Chennai Super Kings,12,12,0,1,100.0,out
+5,1,Shivam Dube,Chennai Super Kings,19,18,0,1,105.56,out
+6,1,Ravindra Jadeja,Chennai Super Kings,1,2,0,0,50.0,out
+7,1,MS Dhoni,Chennai Super Kings,14,7,1,1,200.0,not_out
+8,1,Mitchell Santner,Chennai Super Kings,1,3,0,0,33.33,not_out
+9,1,Wriddhiman Saha,Gujarat Titans,25,16,2,2,156.25,out
+10,1,Shubman Gill,Gujarat Titans,63,36,6,3,175.0,out
+11,1,Sai Sudharsan,Gujarat Titans,22,17,3,0,129.41,out
+12,1,Hardik Pandya,Gujarat Titans,8,11,0,0,72.73,out
+13,1,Vijay Shankar,Gujarat Titans,27,21,2,1,128.57,out
+14,1,Rahul Tewatia,Gujarat Titans,15,14,1,1,107.14,not_out
+15,1,Rashid Khan,Gujarat Titans,10,3,1,1,333.33,not_out
+16,2,Prabhsimran Singh,Punjab Kings,23,12,2,2,191.67,out
+17,2,Shikhar Dhawan,Punjab Kings,40,29,6,0,137.93,out
+18,2,Bhanuka Rajapaksa,Punjab Kings,50,32,5,2,156.25,out
+19,2,Jitesh Sharma,Punjab Kings,21,11,1,2,190.91,out
+20,2,Sikandar Raza,Punjab Kings,16,13,1,1,123.08,out
+21,2,Sam Curran,Punjab Kings,26,17,0,2,152.94,not_out
+22,2,Shahrukh Khan,Punjab Kings,11,7,2,0,157.14,not_out
+23,2,Mandeep Singh,Kolkata Knight Riders,2,4,0,0,50.0,out
+24,2,Rahmanullah Gurbaz,Kolkata Knight Riders,22,16,3,1,137.5,out
+25,2,Anukul Roy,Kolkata Knight Riders,4,5,1,0,80.0,out
+26,2,Venkatesh Iyer,Kolkata Knight Riders,34,28,3,1,121.43,out
+27,2,Nitish Rana,Kolkata Knight Riders,24,17,3,1,141.18,out
+28,2,Rinku Singh,Kolkata Knight Riders,4,4,0,0,100.0,out
+29,2,Andre Russell,Kolkata Knight Riders,35,19,3,2,184.21,out
+30,2,Shardul Thakur,Kolkata Knight Riders,8,3,0,1,266.67,not_out
+31,2,Sunil Narine,Kolkata Knight Riders,7,2,0,1,350.0,not_out
+32,3,KL Rahul,Lucknow Super Giants,8,12,0,1,66.67,out
+33,3,Kyle Mayers,Lucknow Super Giants,73,38,2,7,192.11,out
+34,3,Deepak Hooda,Lucknow Super Giants,17,18,0,0,94.44,out
+35,3,Krunal Pandya,Lucknow Super Giants,15,13,0,1,115.38,not_out
+36,3,Marcus Stoinis,Lucknow Super Giants,12,10,0,1,120.0,out
+37,3,Nicholas Pooran,Lucknow Super Giants,36,21,2,3,171.43,out
+38,3,Ayush Badoni,Lucknow Super Giants,18,7,1,2,257.14,out
+39,3,Krishnappa Gowtham,Lucknow Super Giants,6,1,0,1,600.0,not_out
+40,3,Prithvi Shaw,Delhi Capitals,12,9,2,0,133.33,out
+41,3,David Warner,Delhi Capitals,56,48,7,0,116.67,out
+42,3,Mitchell Marsh,Delhi Capitals,0,1,0,0,0.0,out
+43,3,Sarfaraz Khan,Delhi Capitals,4,9,1,0,44.44,out
+44,3,Rilee Rossouw,Delhi Capitals,30,20,3,1,150.0,out
+45,3,Rovman Powell,Delhi Capitals,1,3,0,0,33.33,out
+46,3,Aman Hakim Khan,Delhi Capitals,4,5,0,0,80.0,out
+47,3,Axar Patel,Delhi Capitals,16,11,1,1,145.45,out
+48,3,Kuldeep Yadav,Delhi Capitals,6,10,0,0,60.0,not_out
+49,3,Chetan Sakariya,Delhi Capitals,4,4,1,0,100.0,out
+50,3,Mukesh Kumar,Delhi Capitals,0,1,0,0,0.0,not_out
+51,4,Yashasvi Jaiswal,Rajasthan Royals,54,37,9,0,145.95,out
+52,4,Jos Buttler,Rajasthan Royals,54,22,7,3,245.45,out
+53,4,Sanju Samson,Rajasthan Royals,55,32,3,4,171.88,out
+54,4,Devdutt Padikkal,Rajasthan Royals,2,5,0,0,40.0,out
+55,4,Riyan Parag,Rajasthan Royals,7,6,1,0,116.67,out
+56,4,Shimron Hetmyer,Rajasthan Royals,22,16,1,1,137.5,not_out
+57,4,Ravichandran Ashwin,Rajasthan Royals,1,2,0,0,50.0,not_out
+58,4,Abhishek Sharma,Sunrisers Hyderabad,0,3,0,0,0.0,out
+59,4,Mayank Agarwal,Sunrisers Hyderabad,27,23,3,0,117.39,out
+60,4,Rahul Tripathi,Sunrisers Hyderabad,0,2,0,0,0.0,out
+61,4,Harry Brook,Sunrisers Hyderabad,13,21,1,0,61.9,out
+62,4,Washington Sundar,Sunrisers Hyderabad,1,5,0,0,20.0,out
+63,4,Glenn Phillips,Sunrisers Hyderabad,8,6,0,1,133.33,out
+64,4,Abdul Samad,Sunrisers Hyderabad,32,32,2,1,100.0,not_out
+65,4,Adil Rashid,Sunrisers Hyderabad,18,13,1,1,138.46,out
+66,4,Bhuvneshwar Kumar,Sunrisers Hyderabad,6,10,0,0,60.0,out
+67,4,Umran Malik,Sunrisers Hyderabad,19,8,1,2,237.5,not_out
+68,5,Rohit Sharma,Mumbai Indians,1,10,0,0,10.0,out
+69,5,Ishan Kishan,Mumbai Indians,10,13,2,0,76.92,out
+70,5,Cameron Green,Mumbai Indians,5,4,1,0,125.0,out
+71,5,Suryakumar Yadav,Mumbai Indians,15,16,1,0,93.75,out
+72,5,Tilak Varma,Mumbai Indians,84,46,9,4,182.61,not_out
+73,5,Nehal Wadhera,Mumbai Indians,21,13,1,2,161.54,out
+74,5,Tim David,Mumbai Indians,4,7,0,0,57.14,out
+75,5,Hrithik Shokeen,Mumbai Indians,5,3,1,0,166.67,out
+76,5,Arshad Khan,Mumbai Indians,15,9,0,1,166.67,not_out
+77,5,Virat Kohli,Royal Challengers Bangalore,82,49,6,5,167.35,not_out
+78,5,Faf du Plessis,Royal Challengers Bangalore,73,43,5,6,169.77,out
+79,5,Dinesh Karthik,Royal Challengers Bangalore,0,3,0,0,0.0,out
+80,5,Glenn Maxwell,Royal Challengers Bangalore,12,3,0,2,400.0,not_out
+81,6,Ruturaj Gaikwad,Chennai Super Kings,57,31,3,4,183.87,out
+82,6,Devon Conway,Chennai Super Kings,47,29,5,2,162.07,out
+83,6,Shivam Dube,Chennai Super Kings,27,16,1,3,168.75,out
+84,6,Moeen Ali,Chennai Super Kings,19,13,3,0,146.15,out
+85,6,Ben Stokes,Chennai Super Kings,8,8,1,0,100.0,out
+86,6,Ambati Rayudu,Chennai Super Kings,27,14,2,2,192.86,not_out
+87,6,Ravindra Jadeja,Chennai Super Kings,3,6,0,0,50.0,out
+88,6,MS Dhoni,Chennai Super Kings,12,3,0,2,400.0,out
+89,6,Mitchell Santner,Chennai Super Kings,1,1,0,0,100.0,not_out
+90,6,KL Rahul,Lucknow Super Giants,20,18,2,0,111.11,out
+91,6,Kyle Mayers,Lucknow Super Giants,53,22,8,2,240.91,out
+92,6,Deepak Hooda,Lucknow Super Giants,2,6,0,0,33.33,out
+93,6,Krunal Pandya,Lucknow Super Giants,9,9,0,1,100.0,out
+94,6,Marcus Stoinis,Lucknow Super Giants,21,18,0,1,116.67,out
+95,6,Nicholas Pooran,Lucknow Super Giants,32,18,2,3,177.78,out
+96,6,Ayush Badoni,Lucknow Super Giants,23,18,0,0,127.78,out
+97,6,Krishnappa Gowtham,Lucknow Super Giants,17,11,0,1,154.55,not_out
+98,6,Mark Wood,Lucknow Super Giants,10,3,1,1,333.33,not_out
+99,7,David Warner,Delhi Capitals,37,32,7,0,115.62,out
+100,7,Prithvi Shaw,Delhi Capitals,7,5,1,0,140.0,out
+101,7,Mitchell Marsh,Delhi Capitals,4,4,1,0,100.0,out
+102,7,Sarfaraz Khan,Delhi Capitals,20,24,2,0,83.33,out
+103,7,Rilee Rossouw,Delhi Capitals,0,1,0,0,0.0,out
+104,7,Abishek Porel,Delhi Capitals,20,11,0,0,181.82,out
+105,7,Axar Patel,Delhi Capitals,36,22,2,0,163.64,out
+106,7,Aman Hakim Khan,Delhi Capitals,8,8,0,1,100.0,out
+107,7,Kuldeep Yadav,Delhi Capitals,1,1,0,0,100.0,not_out
+108,7,Anrich Nortje,Delhi Capitals,4,2,1,0,200.0,not_out
+109,7,Wriddhiman Saha,Gujarat Titans,14,7,2,1,200.0,out
+110,7,Shubman Gill,Gujarat Titans,14,13,3,0,107.69,out
+111,7,Sai Sudharsan,Gujarat Titans,62,48,4,2,129.17,not_out
+112,7,Hardik Pandya,Gujarat Titans,5,4,1,0,125.0,out
+113,7,Vijay Shankar,Gujarat Titans,29,23,3,0,126.09,out
+114,7,David Miller,Gujarat Titans,31,16,2,2,193.75,not_out
+115,8,Prabhsimran Singh,Punjab Kings,60,34,7,3,176.47,out
+116,8,Shikhar Dhawan,Punjab Kings,86,56,9,3,153.57,not_out
+117,8,Bhanuka Rajapaksa,Punjab Kings,1,1,0,0,100.0,not_out
+118,8,Jitesh Sharma,Punjab Kings,27,16,2,1,168.75,out
+119,8,Sikandar Raza,Punjab Kings,1,2,0,0,50.0,out
+120,8,Shahrukh Khan,Punjab Kings,11,10,1,0,110.0,out
+121,8,Sam Curran,Punjab Kings,1,2,0,0,50.0,not_out
+122,8,Yashasvi Jaiswal,Rajasthan Royals,11,8,1,1,137.5,out
+123,8,Ravichandran Ashwin,Rajasthan Royals,0,4,0,0,0.0,out
+124,8,Jos Buttler,Rajasthan Royals,19,11,1,1,172.73,out
+125,8,Sanju Samson,Rajasthan Royals,42,25,5,1,168.0,out
+126,8,Devdutt Padikkal,Rajasthan Royals,21,26,1,0,80.77,out
+127,8,Riyan Parag,Rajasthan Royals,20,12,1,2,166.67,out
+128,8,Shimron Hetmyer,Rajasthan Royals,36,18,1,3,200.0,out
+129,8,Dhruv Jurel,Rajasthan Royals,32,15,3,2,213.33,not_out
+130,8,Jason Holder,Rajasthan Royals,1,1,0,0,100.0,not_out
+131,9,Rahmanullah Gurbaz,Kolkata Knight Riders,57,44,6,3,129.55,out
+132,9,Venkatesh Iyer,Kolkata Knight Riders,3,7,0,0,42.86,out
+133,9,Mandeep Singh,Kolkata Knight Riders,0,1,0,0,0.0,out
+134,9,Nitish Rana,Kolkata Knight Riders,1,5,0,0,20.0,out
+135,9,Rinku Singh,Kolkata Knight Riders,46,33,2,3,139.39,out
+136,9,Andre Russell,Kolkata Knight Riders,0,1,0,0,0.0,out
+137,9,Shardul Thakur,Kolkata Knight Riders,68,29,9,3,234.48,out
+138,9,Sunil Narine,Kolkata Knight Riders,0,1,0,0,0.0,not_out
+139,9,Umesh Yadav,Kolkata Knight Riders,6,2,1,0,300.0,not_out
+140,9,Virat Kohli,Royal Challengers Bangalore,21,18,3,0,116.67,out
+141,9,Faf du Plessis,Royal Challengers Bangalore,23,12,2,2,191.67,out
+142,9,Michael Bracewell,Royal Challengers Bangalore,19,18,1,1,105.56,out
+143,9,Glenn Maxwell,Royal Challengers Bangalore,5,7,1,0,71.43,out
+144,9,Harshal Patel,Royal Challengers Bangalore,0,2,0,0,0.0,out
+145,9,Shahbaz Ahmed,Royal Challengers Bangalore,1,5,0,0,20.0,out
+146,9,Dinesh Karthik,Royal Challengers Bangalore,9,8,1,0,112.5,out
+147,9,Anuj Rawat,Royal Challengers Bangalore,1,5,0,0,20.0,out
+148,9,David Willey,Royal Challengers Bangalore,20,20,2,0,100.0,not_out
+149,9,Karn Sharma,Royal Challengers Bangalore,1,3,0,0,33.33,out
+150,9,Akash Deep,Royal Challengers Bangalore,17,8,2,1,212.5,out
+151,10,Anmolpreet Singh,Sunrisers Hyderabad,31,26,3,1,119.23,out
+152,10,Mayank Agarwal,Sunrisers Hyderabad,8,7,1,0,114.29,out
+153,10,Rahul Tripathi,Sunrisers Hyderabad,35,41,4,0,85.37,out
+154,10,Aiden Markram,Sunrisers Hyderabad,0,1,0,0,0.0,out
+155,10,Harry Brook,Sunrisers Hyderabad,3,4,0,0,75.0,out
+156,10,Washington Sundar,Sunrisers Hyderabad,16,28,0,0,57.14,out
+157,10,Abdul Samad,Sunrisers Hyderabad,21,10,1,2,210.0,not_out
+158,10,Adil Rashid,Sunrisers Hyderabad,4,3,1,0,133.33,out
+159,10,Umran Malik,Sunrisers Hyderabad,0,0,0,0,,out
+160,10,Bhuvneshwar Kumar,Sunrisers Hyderabad,0,0,0,0,,not_out
+161,10,Kyle Mayers,Lucknow Super Giants,13,14,2,0,92.86,out
+162,10,KL Rahul,Lucknow Super Giants,35,31,4,0,112.9,out
+163,10,Deepak Hooda,Lucknow Super Giants,7,8,0,1,87.5,out
+164,10,Krunal Pandya,Lucknow Super Giants,34,23,4,1,147.83,out
+165,10,Marcus Stoinis,Lucknow Super Giants,10,13,2,0,76.92,not_out
+166,10,Romario Shepherd,Lucknow Super Giants,0,1,0,0,0.0,out
+167,10,Nicholas Pooran,Lucknow Super Giants,11,6,1,1,183.33,not_out
+168,11,Yashasvi Jaiswal,Rajasthan Royals,60,31,11,1,193.55,out
+169,11,Jos Buttler,Rajasthan Royals,79,51,11,1,154.9,out
+170,11,Sanju Samson,Rajasthan Royals,0,4,0,0,0.0,out
+171,11,Riyan Parag,Rajasthan Royals,7,11,0,0,63.64,out
+172,11,Shimron Hetmyer,Rajasthan Royals,39,21,1,4,185.71,not_out
+173,11,Dhruv Jurel,Rajasthan Royals,8,3,0,1,266.67,not_out
+174,11,Prithvi Shaw,Delhi Capitals,0,3,0,0,0.0,out
+175,11,David Warner,Delhi Capitals,65,55,7,0,118.18,out
+176,11,Manish Pandey,Delhi Capitals,0,1,0,0,0.0,out
+177,11,Rilee Rossouw,Delhi Capitals,14,12,2,0,116.67,out
+178,11,Lalit Yadav,Delhi Capitals,38,24,5,0,158.33,out
+179,11,Axar Patel,Delhi Capitals,2,6,0,0,33.33,out
+180,11,Rovman Powell,Delhi Capitals,2,2,0,0,100.0,out
+181,11,Abishek Porel,Delhi Capitals,7,9,1,0,77.78,out
+182,11,Kuldeep Yadav,Delhi Capitals,3,7,0,0,42.86,not_out
+183,11,Anrich Nortje,Delhi Capitals,0,1,0,0,0.0,out
+184,11,Mukesh Kumar,Delhi Capitals,1,1,0,0,100.0,not_out
+185,12,Rohit Sharma,Mumbai Indians,21,13,3,1,161.54,out
+186,12,Ishan Kishan,Mumbai Indians,32,21,5,0,152.38,out
+187,12,Cameron Green,Mumbai Indians,12,11,1,0,109.09,out
+188,12,Suryakumar Yadav,Mumbai Indians,1,2,0,0,50.0,out
+189,12,Tilak Varma,Mumbai Indians,22,18,2,1,122.22,out
+190,12,Arshad Khan,Mumbai Indians,2,4,0,0,50.0,out
+191,12,Tim David,Mumbai Indians,31,22,1,2,140.91,out
+192,12,Tristan Stubbs,Mumbai Indians,5,10,0,0,50.0,out
+193,12,Hrithik Shokeen,Mumbai Indians,18,13,3,0,138.46,not_out
+194,12,Piyush Chawla,Mumbai Indians,5,6,0,0,83.33,not_out
+195,12,Devon Conway,Chennai Super Kings,0,4,0,0,0.0,out
+196,12,Ruturaj Gaikwad,Chennai Super Kings,40,36,2,1,111.11,not_out
+197,12,Ajinkya Rahane,Chennai Super Kings,61,27,7,3,225.93,out
+198,12,Shivam Dube,Chennai Super Kings,28,26,2,1,107.69,out
+199,12,Ambati Rayudu,Chennai Super Kings,20,16,3,0,125.0,not_out
+200,13,Wriddhiman Saha,Gujarat Titans,17,17,3,0,100.0,out
+201,13,Shubman Gill,Gujarat Titans,39,31,5,0,125.81,out
+202,13,Sai Sudharsan,Gujarat Titans,53,38,3,2,139.47,out
+203,13,Abhinav Manohar,Gujarat Titans,14,8,3,0,175.0,out
+204,13,Vijay Shankar,Gujarat Titans,63,24,4,5,262.5,not_out
+205,13,David Miller,Gujarat Titans,2,3,0,0,66.67,not_out
+206,13,Rahmanullah Gurbaz ,Kolkata Knight Riders,15,12,1,1,125.0,out
+207,13,N Jagadeesan,Kolkata Knight Riders,6,8,1,0,75.0,out
+208,13,Venkatesh Iyer,Kolkata Knight Riders,83,40,8,5,207.5,out
+209,13,Nitish Rana,Kolkata Knight Riders,45,29,4,3,155.17,out
+210,13,Rinku Singh,Kolkata Knight Riders,48,21,1,6,228.57,not_out
+211,13,Andre Russell,Kolkata Knight Riders,1,2,0,0,50.0,out
+212,13,Sunil Narine,Kolkata Knight Riders,0,1,0,0,0.0,out
+213,13,Shardul Thakur,Kolkata Knight Riders,0,1,0,0,0.0,out
+214,13,Umesh Yadav,Kolkata Knight Riders,5,6,0,0,83.33,not_out
+215,14,Prabhsimran Singh,Punjab Kings,0,1,0,0,0.0,out
+216,14,Shikhar Dhawan,Punjab Kings,99,66,12,5,150.0,not_out
+217,14,Matthew Short,Punjab Kings,1,3,0,0,33.33,out
+218,14,Jitesh Sharma ,Punjab Kings,4,9,1,0,44.44,out
+219,14,Sam Curran,Punjab Kings,22,15,3,1,146.67,out
+220,14,Sikandar Raza,Punjab Kings,5,6,0,0,83.33,out
+221,14,Shahrukh Khan,Punjab Kings,4,3,1,0,133.33,out
+222,14,Harpreet Brar,Punjab Kings,1,2,0,0,50.0,out
+223,14,Rahul Chahar,Punjab Kings,0,8,0,0,0.0,out
+224,14,Nathan Ellis,Punjab Kings,0,5,0,0,0.0,out
+225,14,Mohit Rathee,Punjab Kings,1,2,0,0,50.0,not_out
+226,14,Harry Brook,Sunrisers Hyderabad,13,14,3,0,92.86,out
+227,14,Mayank Agarwal,Sunrisers Hyderabad,21,20,3,0,105.0,out
+228,14,Rahul Tripathi,Sunrisers Hyderabad,74,48,10,3,154.17,not_out
+229,14,Aiden Markram,Sunrisers Hyderabad,37,21,6,0,176.19,not_out
+230,15,Virat Kohli,Royal Challengers Bangalore,61,44,4,4,138.64,out
+231,15,Faf du Plessis,Royal Challengers Bangalore,79,46,5,5,171.74,not_out
+232,15,Glenn Maxwell,Royal Challengers Bangalore,59,29,3,6,203.45,out
+233,15,Dinesh Karthik,Royal Challengers Bangalore,1,1,0,0,100.0,not_out
+234,15,Kyle Mayers,Lucknow Super Giants,0,3,0,0,0.0,out
+235,15,KL Rahul,Lucknow Super Giants,18,20,1,0,90.0,out
+236,15,Deepak Hooda,Lucknow Super Giants,9,10,1,0,90.0,out
+237,15,Krunal Pandya,Lucknow Super Giants,0,2,0,0,0.0,out
+238,15,Marcus Stoinis,Lucknow Super Giants,65,30,6,5,216.67,out
+239,15,Nicholas Pooran,Lucknow Super Giants,62,19,4,7,326.32,out
+240,15,Ayush Badoni,Lucknow Super Giants,30,24,4,0,125.0,out
+241,15,Jaydev Unadkat,Lucknow Super Giants,9,7,1,0,128.57,out
+242,15,Mark Wood,Lucknow Super Giants,1,2,0,0,50.0,out
+243,15,Ravi Bishnoi,Lucknow Super Giants,3,2,0,0,150.0,not_out
+244,15,Avesh Khan,Lucknow Super Giants,0,1,0,0,0.0,not_out
+245,16,Rohit Sharma,Mumbai Indians,65,45,6,4,144.44,out
+246,16,Ishan Kishan,Mumbai Indians,31,26,6,0,119.23,out
+247,16,Tilak Varma,Mumbai Indians,41,29,1,4,141.38,out
+248,16,Suryakumar Yadav,Mumbai Indians,0,1,0,0,0.0,out
+249,16,Tim David,Mumbai Indians,13,11,0,1,118.18,not_out
+250,16,Cameron Green,Mumbai Indians,17,8,1,1,212.5,not_out
+251,16,David Warner,Delhi Capitals,51,47,6,0,108.51,out
+252,16,Prithvi Shaw,Delhi Capitals,15,10,3,0,150.0,out
+253,16,Manish Pandey,Delhi Capitals,26,18,5,0,144.44,out
+254,16,Yash Dhull,Delhi Capitals,2,4,0,0,50.0,out
+255,16,Rovman Powell,Delhi Capitals,4,4,1,0,100.0,out
+256,16,Lalit Yadav,Delhi Capitals,2,4,0,0,50.0,out
+257,16,Axar Patel,Delhi Capitals,54,25,4,5,216.0,out
+258,16,Abishek Porel,Delhi Capitals,1,3,0,0,33.33,out
+259,16,Kuldeep Yadav,Delhi Capitals,0,1,0,0,0.0,not_out
+260,16,Anrich Nortje,Delhi Capitals,5,3,1,0,166.67,out
+261,16,Mustafizur Rahman,Delhi Capitals,1,1,0,0,100.0,not_out
+262,17,Yashasvi Jaiswal,Rajasthan Royals,10,8,2,0,125.0,out
+263,17,Jos Buttler,Rajasthan Royals,52,36,1,3,144.44,out
+264,17,Devdutt Padikkal,Rajasthan Royals,38,26,5,0,146.15,out
+265,17,Sanju Samson,Rajasthan Royals,0,2,0,0,0.0,out
+266,17,Ravichandran Ashwin,Rajasthan Royals,30,22,1,2,136.36,out
+267,17,Shimron Hetmyer,Rajasthan Royals,30,18,2,2,166.67,not_out
+268,17,Dhruv Jurel,Rajasthan Royals,4,6,0,0,66.67,out
+269,17,Jason Holder,Rajasthan Royals,0,1,0,0,0.0,out
+270,17,Adam Zampa,Rajasthan Royals,1,1,0,0,100.0,out
+271,17,Ruturaj Gaikwad,Chennai Super Kings,8,10,1,0,80.0,out
+272,17,Devon Conway,Chennai Super Kings,50,38,6,0,131.58,out
+273,17,Ajinkya Rahane,Chennai Super Kings,31,19,2,1,163.16,out
+274,17,Shivam Dube,Chennai Super Kings,8,9,1,0,88.89,out
+275,17,Moeen Ali,Chennai Super Kings,7,10,0,0,70.0,out
+276,17,Ambati Rayudu,Chennai Super Kings,1,2,0,0,50.0,out
+277,17,Ravindra Jadeja,Chennai Super Kings,25,15,1,2,166.67,not_out
+278,17,MS Dhoni,Chennai Super Kings,32,17,1,3,188.24,not_out
+279,18,Prabhsimran Singh,Punjab Kings,0,2,0,0,0.0,out
+280,18,Shikhar Dhawan,Punjab Kings,8,8,2,0,100.0,out
+281,18,Matthew Short,Punjab Kings,36,24,6,1,150.0,out
+282,18,Bhanuka Rajapaksa,Punjab Kings,20,26,1,0,76.92,out
+283,18,Jitesh Sharma ,Punjab Kings,25,23,5,0,108.7,out
+284,18,Sam Curran,Punjab Kings,22,22,1,1,100.0,out
+285,18,Shahrukh Khan,Punjab Kings,22,9,1,2,244.44,out
+286,18,Harpreet Brar,Punjab Kings,8,5,0,1,160.0,not_out
+287,18,Rishi Dhawan,Punjab Kings,1,1,0,0,100.0,out
+288,18,Wriddhiman Saha,Gujarat Titans,30,19,5,0,157.89,out
+289,18,Shubman Gill,Gujarat Titans,67,49,7,1,136.73,out
+290,18,Sai Sudharsan,Gujarat Titans,19,20,2,0,95.0,out
+291,18,Hardik Pandya,Gujarat Titans,8,11,1,0,72.73,out
+292,18,David Miller,Gujarat Titans,17,18,1,0,94.44,not_out
+293,18,Rahul Tewatia,Gujarat Titans,5,2,1,0,250.0,not_out
+294,19,Harry Brook,Sunrisers Hyderabad,100,55,12,3,181.82,not_out
+295,19,Mayank Agarwal,Sunrisers Hyderabad,9,13,0,0,69.23,out
+296,19,Rahul Tripathi,Sunrisers Hyderabad,9,4,2,0,225.0,out
+297,19,Aiden Markram,Sunrisers Hyderabad,50,26,2,5,192.31,out
+298,19,Abhishek Sharma,Sunrisers Hyderabad,32,17,3,2,188.24,out
+299,19,Heinrich Klaasen,Sunrisers Hyderabad,16,6,2,1,266.67,not_out
+300,19,Rahmanullah Gurbaz ,Kolkata Knight Riders,0,3,0,0,0.0,out
+301,19,N Jagadeesan,Kolkata Knight Riders,36,21,5,1,171.43,out
+302,19,Venkatesh Iyer,Kolkata Knight Riders,10,11,2,0,90.91,out
+303,19,Sunil Narine,Kolkata Knight Riders,0,1,0,0,0.0,out
+304,19,Nitish Rana,Kolkata Knight Riders,75,41,5,6,182.93,out
+305,19,Andre Russell,Kolkata Knight Riders,3,6,0,0,50.0,out
+306,19,Rinku Singh,Kolkata Knight Riders,58,31,4,4,187.1,not_out
+307,19,Shardul Thakur,Kolkata Knight Riders,12,7,2,0,171.43,out
+308,19,Umesh Yadav,Kolkata Knight Riders,1,1,0,0,100.0,not_out
+309,20,Virat Kohli,Royal Challengers Bangalore,50,34,6,1,147.06,out
+310,20,Faf du Plessis,Royal Challengers Bangalore,22,16,3,1,137.5,out
+311,20,Mahipal Lomror,Royal Challengers Bangalore,26,18,0,2,144.44,out
+312,20,Glenn Maxwell,Royal Challengers Bangalore,24,14,0,3,171.43,out
+313,20,Harshal Patel,Royal Challengers Bangalore,6,4,0,1,150.0,out
+314,20,Shahbaz Ahmed,Royal Challengers Bangalore,20,12,3,0,166.67,not_out
+315,20,Dinesh Karthik,Royal Challengers Bangalore,0,1,0,0,0.0,out
+316,20,Anuj Rawat,Royal Challengers Bangalore,15,22,1,0,68.18,not_out
+317,20,David Warner,Delhi Capitals,19,13,4,0,146.15,out
+318,20,Prithvi Shaw,Delhi Capitals,0,2,0,0,0.0,out
+319,20,Mitchell Marsh,Delhi Capitals,0,4,0,0,0.0,out
+320,20,Yash Dhull,Delhi Capitals,1,4,0,0,25.0,out
+321,20,Manish Pandey,Delhi Capitals,50,38,5,1,131.58,out
+322,20,Abishek Porel,Delhi Capitals,5,8,0,0,62.5,out
+323,20,Axar Patel,Delhi Capitals,21,14,3,0,150.0,out
+324,20,Aman Hakim Khan,Delhi Capitals,18,10,1,1,180.0,out
+325,20,Lalit Yadav,Delhi Capitals,4,7,0,0,57.14,out
+326,20,Anrich Nortje,Delhi Capitals,23,14,4,0,164.29,not_out
+327,20,Kuldeep Yadav,Delhi Capitals,7,6,1,0,116.67,not_out
+328,21,KL Rahul,Lucknow Super Giants,74,56,8,1,132.14,out
+329,21,Kyle Mayers,Lucknow Super Giants,29,23,1,3,126.09,out
+330,21,Deepak Hooda,Lucknow Super Giants,2,3,0,0,66.67,out
+331,21,Krunal Pandya,Lucknow Super Giants,18,17,2,0,105.88,out
+332,21,Nicholas Pooran,Lucknow Super Giants,0,1,0,0,0.0,out
+333,21,Marcus Stoinis,Lucknow Super Giants,15,11,0,2,136.36,out
+334,21,Ayush Badoni,Lucknow Super Giants,5,6,0,0,83.33,not_out
+335,21,Krishnappa Gowtham,Lucknow Super Giants,1,2,0,0,50.0,out
+336,21,Yudhvir Singh,Lucknow Super Giants,0,1,0,0,0.0,out
+337,21,Ravi Bishnoi,Lucknow Super Giants,3,1,0,0,300.0,not_out
+338,21,Atharva Taide,Punjab Kings,0,3,0,0,0.0,out
+339,21,Prabhsimran Singh,Punjab Kings,4,4,1,0,100.0,out
+340,21,Matthew Short,Punjab Kings,34,22,5,1,154.55,out
+341,21,Harpreet Singh Bhatia,Punjab Kings,22,22,3,0,100.0,out
+342,21,Sikandar Raza,Punjab Kings,57,41,4,3,139.02,out
+343,21,Sam Curran,Punjab Kings,6,6,1,0,100.0,out
+344,21,Jitesh Sharma,Punjab Kings,2,4,0,0,50.0,out
+345,21,Shahrukh Khan,Punjab Kings,23,10,1,2,230.0,not_out
+346,21,Harpreet Brar,Punjab Kings,6,4,1,0,150.0,out
+347,21,Kagiso Rabada,Punjab Kings,0,1,0,0,0.0,not_out
+348,22,Rahmanullah Gurbaz ,Kolkata Knight Riders,8,12,0,0,66.67,out
+349,22,N Jagadeesan,Kolkata Knight Riders,0,5,0,0,0.0,out
+350,22,Venkatesh Iyer,Kolkata Knight Riders,104,51,6,9,203.92,out
+351,22,Nitish Rana,Kolkata Knight Riders,5,10,0,0,50.0,out
+352,22,Shardul Thakur,Kolkata Knight Riders,13,11,1,0,118.18,out
+353,22,Rinku Singh,Kolkata Knight Riders,18,18,2,0,100.0,out
+354,22,Andre Russell,Kolkata Knight Riders,21,11,3,1,190.91,not_out
+355,22,Sunil Narine,Kolkata Knight Riders,2,2,0,0,100.0,not_out
+356,22,Rohit Sharma,Mumbai Indians,20,13,1,2,153.85,out
+357,22,Ishan Kishan,Mumbai Indians,58,25,5,5,232.0,out
+358,22,Suryakumar Yadav,Mumbai Indians,43,25,4,3,172.0,out
+359,22,Tilak Varma,Mumbai Indians,30,25,3,1,120.0,out
+360,22,Tim David,Mumbai Indians,24,13,1,2,184.62,not_out
+361,22,Nehal Wadhera,Mumbai Indians,6,4,1,0,150.0,out
+362,22,Cameron Green,Mumbai Indians,1,1,0,0,100.0,not_out
+363,23,Wriddhiman Saha,Gujarat Titans,4,3,1,0,133.33,out
+364,23,Shubman Gill,Gujarat Titans,45,34,4,1,132.35,out
+365,23,Sai Sudharsan,Gujarat Titans,20,19,2,0,105.26,out
+366,23,Hardik Pandya,Gujarat Titans,28,19,3,1,147.37,out
+367,23,David Miller,Gujarat Titans,46,30,3,2,153.33,out
+368,23,Abhinav Manohar,Gujarat Titans,27,13,0,3,207.69,out
+369,23,Rahul Tewatia,Gujarat Titans,1,1,0,0,100.0,not_out
+370,23,Rashid Khan,Gujarat Titans,1,1,0,0,100.0,out
+371,23,Alzarri Joseph,Gujarat Titans,0,0,0,0,,not_out
+372,23,Yashasvi Jaiswal,Rajasthan Royals,1,7,0,0,14.29,out
+373,23,Jos Buttler,Rajasthan Royals,0,5,0,0,0.0,out
+374,23,Devdutt Padikkal,Rajasthan Royals,26,25,2,2,104.0,out
+375,23,Sanju Samson,Rajasthan Royals,60,32,3,6,187.5,out
+376,23,Riyan Parag,Rajasthan Royals,5,7,0,0,71.43,out
+377,23,Shimron Hetmyer,Rajasthan Royals,56,26,2,5,215.38,not_out
+378,23,Dhruv Jurel,Rajasthan Royals,18,10,2,1,180.0,out
+379,23,Ravichandran Ashwin,Rajasthan Royals,10,3,1,1,333.33,out
+380,23,Trent Boult,Rajasthan Royals,0,1,0,0,0.0,not_out
+381,24,Ruturaj Gaikwad,Chennai Super Kings,3,6,0,0,50.0,out
+382,24,Devon Conway,Chennai Super Kings,83,45,6,6,184.44,out
+383,24,Ajinkya Rahane,Chennai Super Kings,37,20,3,2,185.0,out
+384,24,Shivam Dube,Chennai Super Kings,52,27,2,5,192.59,out
+385,24,Ambati Rayudu,Chennai Super Kings,14,6,1,1,233.33,out
+386,24,Moeen Ali,Chennai Super Kings,19,9,0,2,211.11,not_out
+387,24,Ravindra Jadeja,Chennai Super Kings,10,8,0,1,125.0,out
+388,24,MS Dhoni,Chennai Super Kings,1,1,0,0,100.0,not_out
+389,24,Virat Kohli,Royal Challengers Bangalore,6,4,1,0,150.0,out
+390,24,Faf du Plessis,Royal Challengers Bangalore,62,33,5,4,187.88,out
+391,24,Mahipal Lomror,Royal Challengers Bangalore,0,5,0,0,0.0,out
+392,24,Glenn Maxwell,Royal Challengers Bangalore,76,36,3,8,211.11,out
+393,24,Shahbaz Ahmed,Royal Challengers Bangalore,12,10,0,1,120.0,out
+394,24,Dinesh Karthik,Royal Challengers Bangalore,28,14,3,1,200.0,out
+395,24,Suyash Prabhudessai,Royal Challengers Bangalore,19,11,0,2,172.73,out
+396,24,Wayne Parnell,Royal Challengers Bangalore,2,5,0,0,40.0,out
+397,24,Wanindu Hasaranga,Royal Challengers Bangalore,2,2,0,0,100.0,not_out
+398,25,Rohit Sharma,Mumbai Indians,28,18,6,0,155.56,out
+399,25,Ishan Kishan,Mumbai Indians,38,31,3,2,122.58,out
+400,25,Cameron Green,Mumbai Indians,64,40,6,2,160.0,not_out
+401,25,Suryakumar Yadav,Mumbai Indians,7,3,0,1,233.33,out
+402,25,Tilak Varma,Mumbai Indians,37,18,2,4,205.56,out
+403,25,Tim David,Mumbai Indians,16,11,2,0,145.45,out
+404,25,Harry Brook,Sunrisers Hyderabad,9,7,2,0,128.57,out
+405,25,Mayank Agarwal,Sunrisers Hyderabad,48,41,4,1,117.07,out
+406,25,Rahul Tripathi,Sunrisers Hyderabad,7,5,1,0,140.0,out
+407,25,Aiden Markram,Sunrisers Hyderabad,22,17,1,1,129.41,out
+408,25,Abhishek Sharma,Sunrisers Hyderabad,1,2,0,0,50.0,out
+409,25,Heinrich Klaasen,Sunrisers Hyderabad,36,16,4,2,225.0,out
+410,25,Abdul Samad,Sunrisers Hyderabad,9,12,1,0,75.0,out
+411,25,Marco Jansen,Sunrisers Hyderabad,13,6,3,0,216.67,out
+412,25,Washington Sundar,Sunrisers Hyderabad,10,6,2,0,166.67,out
+413,25,Bhuvneshwar Kumar,Sunrisers Hyderabad,2,5,0,0,40.0,out
+414,25,Mayank Markande,Sunrisers Hyderabad,2,2,0,0,100.0,not_out
+415,26,KL Rahul,Lucknow Super Giants,39,32,4,1,121.88,out
+416,26,Kyle Mayers,Lucknow Super Giants,51,42,4,3,121.43,out
+417,26,Ayush Badoni,Lucknow Super Giants,1,4,0,0,25.0,out
+418,26,Deepak Hooda,Lucknow Super Giants,2,4,0,0,50.0,out
+419,26,Marcus Stoinis,Lucknow Super Giants,21,16,2,0,131.25,out
+420,26,Nicholas Pooran,Lucknow Super Giants,29,20,2,1,145.0,out
+421,26,Krunal Pandya,Lucknow Super Giants,4,2,1,0,200.0,not_out
+422,26,Yudhvir Singh,Lucknow Super Giants,1,1,0,0,100.0,out
+423,26,Yashasvi Jaiswal,Rajasthan Royals,44,35,4,2,125.71,out
+424,26,Jos Buttler,Rajasthan Royals,40,41,4,1,97.56,out
+425,26,Sanju Samson,Rajasthan Royals,2,4,0,0,50.0,out
+426,26,Devdutt Padikkal,Rajasthan Royals,26,21,4,0,123.81,out
+427,26,Shimron Hetmyer,Rajasthan Royals,2,5,0,0,40.0,out
+428,26,Riyan Parag,Rajasthan Royals,15,12,1,1,125.0,not_out
+429,26,Dhruv Jurel,Rajasthan Royals,0,1,0,0,0.0,out
+430,26,Ravichandran Ashwin,Rajasthan Royals,3,2,0,0,150.0,not_out
+431,27,Virat Kohli,Royal Challengers Bangalore,59,47,5,1,125.53,out
+432,27,Faf du Plessis,Royal Challengers Bangalore,84,56,5,5,150.0,out
+433,27,Glenn Maxwell,Royal Challengers Bangalore,0,1,0,0,0.0,out
+434,27,Dinesh Karthik,Royal Challengers Bangalore,7,5,1,0,140.0,out
+435,27,Mahipal Lomror,Royal Challengers Bangalore,7,9,1,0,77.78,not_out
+436,27,Shahbaz Ahmed,Royal Challengers Bangalore,5,3,0,0,166.67,not_out
+437,27,Atharva Taide,Punjab Kings,4,2,1,0,200.0,out
+438,27,Prabhsimran Singh,Punjab Kings,46,30,3,4,153.33,out
+439,27,Matthew Short,Punjab Kings,8,7,0,1,114.29,out
+440,27,Liam Livingstone,Punjab Kings,2,4,0,0,50.0,out
+441,27,Harpreet Singh Bhatia,Punjab Kings,13,9,1,0,144.44,out
+442,27,Sam Curran,Punjab Kings,10,12,1,0,83.33,out
+443,27,Jitesh Sharma,Punjab Kings,41,27,2,3,151.85,out
+444,27,Shahrukh Khan,Punjab Kings,7,5,0,1,140.0,out
+445,27,Harpreet Brar,Punjab Kings,13,13,1,0,100.0,out
+446,27,Nathan Ellis,Punjab Kings,1,2,0,0,50.0,out
+447,27,Arshdeep Singh,Punjab Kings,0,0,0,0,,not_out
+448,28,Jason Roy,Kolkata Knight Riders,43,39,5,1,110.26,out
+449,28,Litton Das,Kolkata Knight Riders,4,4,1,0,100.0,out
+450,28,Venkatesh Iyer,Kolkata Knight Riders,0,2,0,0,0.0,out
+451,28,Nitish Rana,Kolkata Knight Riders,4,7,1,0,57.14,out
+452,28,Mandeep Singh,Kolkata Knight Riders,12,11,0,1,109.09,out
+453,28,Rinku Singh,Kolkata Knight Riders,6,8,1,0,75.0,out
+454,28,Sunil Narine,Kolkata Knight Riders,4,6,1,0,66.67,out
+455,28,Andre Russell,Kolkata Knight Riders,38,31,1,4,122.58,not_out
+456,28,Anukul Roy,Kolkata Knight Riders,0,1,0,0,0.0,out
+457,28,Umesh Yadav,Kolkata Knight Riders,3,5,0,0,60.0,out
+458,28,Varun Chakaravarthy,Kolkata Knight Riders,1,6,0,0,16.67,out
+459,28,David Warner,Delhi Capitals,57,41,11,0,139.02,out
+460,28,Prithvi Shaw,Delhi Capitals,13,11,2,0,118.18,out
+461,28,Mitchell Marsh,Delhi Capitals,2,9,0,0,22.22,out
+462,28,Philip Salt,Delhi Capitals,5,3,1,0,166.67,out
+463,28,Manish Pandey,Delhi Capitals,21,23,2,0,91.3,out
+464,28,Axar Patel,Delhi Capitals,19,22,1,0,86.36,not_out
+465,28,Aman Hakim Khan,Delhi Capitals,0,2,0,0,0.0,out
+466,28,Lalit Yadav,Delhi Capitals,4,7,0,0,57.14,not_out
+467,29,Harry Brook,Sunrisers Hyderabad,18,13,3,0,138.46,out
+468,29,Abhishek Sharma,Sunrisers Hyderabad,34,26,3,1,130.77,out
+469,29,Rahul Tripathi,Sunrisers Hyderabad,21,21,1,1,100.0,out
+470,29,Aiden Markram,Sunrisers Hyderabad,12,12,1,0,100.0,out
+471,29,Heinrich Klaasen,Sunrisers Hyderabad,17,16,1,0,106.25,out
+472,29,Mayank Agarwal,Sunrisers Hyderabad,2,4,0,0,50.0,out
+473,29,Marco Jansen,Sunrisers Hyderabad,17,22,1,0,77.27,not_out
+474,29,Washington Sundar,Sunrisers Hyderabad,9,6,1,0,150.0,out
+475,29,Ruturaj Gaikwad,Chennai Super Kings,35,30,2,0,116.67,out
+476,29,Ruturaj Gaikwad,Chennai Super Kings,77,57,12,1,135.09,not_out
+477,29,Ajinkya Rahane,Chennai Super Kings,9,10,0,0,90.0,out
+478,29,Ambati Rayudu,Chennai Super Kings,9,9,1,0,100.0,out
+479,29,Moeen Ali,Chennai Super Kings,6,6,1,0,100.0,not_out
+480,30,Wriddhiman Saha,Gujarat Titans,47,37,6,0,127.03,out
+481,30,Shubman Gill,Gujarat Titans,0,2,0,0,0.0,out
+482,30,Hardik Pandya,Gujarat Titans,66,50,2,4,132.0,out
+483,30,Abhinav Manohar,Gujarat Titans,3,5,0,0,60.0,out
+484,30,Vijay Shankar,Gujarat Titans,10,12,1,0,83.33,out
+485,30,David Miller,Gujarat Titans,6,12,0,0,50.0,out
+486,30,Rahul Tewatia,Gujarat Titans,2,2,0,0,100.0,not_out
+487,30,KL Rahul,Lucknow Super Giants,68,61,8,0,111.48,out
+488,30,Kyle Mayers,Lucknow Super Giants,24,19,2,1,126.32,out
+489,30,Krunal Pandya,Lucknow Super Giants,23,23,2,1,100.0,out
+490,30,Nicholas Pooran,Lucknow Super Giants,1,7,0,0,14.29,out
+491,30,Ayush Badoni,Lucknow Super Giants,8,6,0,0,133.33,out
+492,30,Marcus Stoinis,Lucknow Super Giants,0,1,0,0,0.0,out
+493,30,Deepak Hooda,Lucknow Super Giants,2,2,0,0,100.0,out
+494,30,Prerak Mankad,Lucknow Super Giants,0,0,0,0,,not_out
+495,30,Ravi Bishnoi,Lucknow Super Giants,0,1,0,0,0.0,not_out
+496,31,Matthew Short,Punjab Kings,11,10,2,0,110.0,out
+497,31,Prabhsimran Singh,Punjab Kings,26,17,1,2,152.94,out
+498,31,Atharva Taide,Punjab Kings,29,17,3,1,170.59,out
+499,31,Liam Livingstone,Punjab Kings,10,12,0,1,83.33,out
+500,31,Harpreet Singh,Punjab Kings,41,28,4,2,146.43,out
+501,31,Sam Curran,Punjab Kings,55,29,5,4,189.66,out
+502,31,Jitesh Sharma,Punjab Kings,25,7,0,4,357.14,out
+503,31,Shahrukh Khan,Punjab Kings,0,0,0,0,,not_out
+504,31,Harpreet Brar,Punjab Kings,5,2,1,0,250.0,out
+505,31,Rohit Sharma,Mumbai Indians,44,27,4,3,162.96,out
+506,31,Ishan Kishan,Mumbai Indians,1,4,0,0,25.0,out
+507,31,Cameron Green,Mumbai Indians,67,43,6,3,155.81,out
+508,31,Suryakumar Yadav,Mumbai Indians,57,26,7,3,219.23,out
+509,31,Tim David,Mumbai Indians,25,13,0,2,192.31,not_out
+510,31,Tilak Varma,Mumbai Indians,3,4,0,0,75.0,out
+511,31,Nehal Wadhera,Mumbai Indians,0,1,0,0,0.0,out
+512,31,Jofra Archer,Mumbai Indians,1,2,0,0,50.0,not_out
+513,32,Virat Kohli,Royal Challengers Bangalore,0,1,0,0,0.0,out
+514,32,Faf du Plessis,Royal Challengers Bangalore,62,39,8,2,158.97,out
+515,32,Shahbaz Ahmed,Royal Challengers Bangalore,2,4,0,0,50.0,out
+516,32,Glenn Maxwell,Royal Challengers Bangalore,77,44,6,4,175.0,out
+517,32,Mahipal Lomror,Royal Challengers Bangalore,8,6,1,0,133.33,out
+518,32,Dinesh Karthik,Royal Challengers Bangalore,16,13,2,0,123.08,out
+519,32,Suyash Prabhudessai,Royal Challengers Bangalore,0,2,0,0,0.0,out
+520,32,Wanindu Hasaranga,Royal Challengers Bangalore,6,7,0,0,85.71,out
+521,32,David Willey,Royal Challengers Bangalore,4,2,1,0,200.0,not_out
+522,32,Vijaykumar Vyshak,Royal Challengers Bangalore,0,1,0,0,0.0,out
+523,32,Mohammed Siraj,Royal Challengers Bangalore,1,1,0,0,100.0,not_out
+524,32,Yashasvi Jaiswal,Rajasthan Royals,47,37,5,2,127.03,out
+525,32,Jos Buttler,Rajasthan Royals,0,2,0,0,0.0,out
+526,32,Devdutt Padikkal,Rajasthan Royals,52,34,7,1,152.94,out
+527,32,Sanju Samson,Rajasthan Royals,22,15,2,1,146.67,out
+528,32,Shimron Hetmyer,Rajasthan Royals,3,9,0,0,33.33,out
+529,32,Dhruv Jurel,Rajasthan Royals,34,16,2,2,212.5,not_out
+530,32,Ravichandran Ashwin,Rajasthan Royals,12,6,2,0,200.0,out
+531,32,Abdul Basith,Rajasthan Royals,1,1,0,0,100.0,not_out
+532,33,Ruturaj Gaikwad,Chennai Super Kings,35,20,2,3,175.0,out
+533,33,Devon Conway,Chennai Super Kings,56,40,4,3,140.0,out
+534,33,Ajinkya Rahane,Chennai Super Kings,71,29,6,5,244.83,not_out
+535,33,Shivam Dube,Chennai Super Kings,50,21,2,5,238.1,out
+536,33,Ravindra Jadeja,Chennai Super Kings,18,8,0,2,225.0,out
+537,33,MS Dhoni,Chennai Super Kings,2,3,0,0,66.67,not_out
+538,33,N Jagadeesan,Kolkata Knight Riders,1,3,0,0,33.33,out
+539,33,Sunil Narine,Kolkata Knight Riders,0,3,0,0,0.0,out
+540,33,Venkatesh Iyer,Kolkata Knight Riders,20,20,2,1,100.0,out
+541,33,Nitish Rana,Kolkata Knight Riders,27,20,4,1,135.0,out
+542,33,Jason Roy,Kolkata Knight Riders,61,26,5,5,234.62,out
+543,33,Rinku Singh,Kolkata Knight Riders,53,33,3,4,160.61,not_out
+544,33,Andre Russell,Kolkata Knight Riders,9,6,0,1,150.0,out
+545,33,David Wiese,Kolkata Knight Riders,1,2,0,0,50.0,out
+546,33,Umesh Yadav,Kolkata Knight Riders,4,4,0,0,100.0,out
+547,33,Varun Chakaravarthy,Kolkata Knight Riders,0,3,0,0,0.0,not_out
+548,34,David Warner,Delhi Capitals,21,20,2,1,105.0,out
+549,34,Philip Salt,Delhi Capitals,0,1,0,0,0.0,out
+550,34,Mitchell Marsh,Delhi Capitals,25,15,5,0,166.67,out
+551,34,Sarfaraz Khan,Delhi Capitals,10,9,0,1,111.11,out
+552,34,Manish Pandey,Delhi Capitals,34,27,2,0,125.93,out
+553,34,Aman Hakim Khan,Delhi Capitals,4,2,1,0,200.0,out
+554,34,Axar Patel,Delhi Capitals,34,34,4,0,100.0,out
+555,34,Ripal Patel,Delhi Capitals,5,6,0,0,83.33,out
+556,34,Anrich Nortje,Delhi Capitals,2,2,0,0,100.0,out
+557,34,Kuldeep Yadav,Delhi Capitals,4,3,1,0,133.33,not_out
+558,34,Ishant Sharma,Delhi Capitals,1,1,0,0,100.0,not_out
+559,34,Harry Brook,Sunrisers Hyderabad,7,14,0,0,50.0,out
+560,34,Mayank Agarwal,Sunrisers Hyderabad,49,39,7,0,125.64,out
+561,34,Rahul Tripathi,Sunrisers Hyderabad,15,21,0,0,71.43,out
+562,34,Abhishek Sharma,Sunrisers Hyderabad,5,5,0,0,100.0,out
+563,34,Aiden Markram,Sunrisers Hyderabad,3,5,0,0,60.0,out
+564,34,Heinrich Klaasen,Sunrisers Hyderabad,31,19,3,1,163.16,out
+565,34,Washington Sundar,Sunrisers Hyderabad,24,15,3,0,160.0,not_out
+566,34,Marco Jansen,Sunrisers Hyderabad,2,3,0,0,66.67,not_out
+567,35,Wriddhiman Saha,Gujarat Titans,4,7,0,0,57.14,out
+568,35,Shubman Gill,Gujarat Titans,56,34,7,1,164.71,out
+569,35,Hardik Pandya,Gujarat Titans,13,14,1,0,92.86,out
+570,35,Vijay Shankar,Gujarat Titans,19,16,1,1,118.75,out
+571,35,David Miller,Gujarat Titans,46,22,2,4,209.09,out
+572,35,Abhinav Manohar,Gujarat Titans,42,21,3,3,200.0,out
+573,35,Rahul Tewatia,Gujarat Titans,20,5,0,3,400.0,not_out
+574,35,Rashid Khan,Gujarat Titans,2,1,0,0,200.0,not_out
+575,35,Rohit Sharma,Mumbai Indians,2,8,0,0,25.0,out
+576,35,Ishan Kishan,Mumbai Indians,13,21,1,0,61.9,out
+577,35,Cameron Green,Mumbai Indians,33,26,0,3,126.92,out
+578,35,Tilak Varma,Mumbai Indians,2,3,0,0,66.67,out
+579,35,Suryakumar Yadav,Mumbai Indians,23,12,3,1,191.67,out
+580,35,Tim David,Mumbai Indians,0,2,0,0,0.0,out
+581,35,Nehal Wadhera,Mumbai Indians,40,21,3,3,190.48,out
+582,35,Piyush Chawla,Mumbai Indians,18,12,1,1,150.0,out
+583,35,Arjun Tendulkar,Mumbai Indians,13,9,0,1,144.44,out
+584,35,Jason Behrendorff,Mumbai Indians,3,4,0,0,75.0,not_out
+585,35,Riley Meredith,Mumbai Indians,0,2,0,0,0.0,not_out
+586,36,Jason Roy,Kolkata Knight Riders,56,29,4,5,193.1,out
+587,36,N Jagadeesan,Kolkata Knight Riders,27,29,4,0,93.1,out
+588,36,Venkatesh Iyer,Kolkata Knight Riders,31,26,3,0,119.23,out
+589,36,Nitish Rana,Kolkata Knight Riders,48,21,3,4,228.57,out
+590,36,Andre Russell,Kolkata Knight Riders,1,2,0,0,50.0,out
+591,36,Rinku Singh,Kolkata Knight Riders,18,10,2,1,180.0,not_out
+592,36,David Wiese,Kolkata Knight Riders,12,3,0,2,400.0,not_out
+593,36,Virat Kohli,Royal Challengers Bangalore,54,37,6,0,145.95,out
+594,36,Faf du Plessis,Royal Challengers Bangalore,17,7,1,2,242.86,out
+595,36,Shahbaz Ahmed,Royal Challengers Bangalore,2,5,0,0,40.0,out
+596,36,Glenn Maxwell,Royal Challengers Bangalore,5,4,1,0,125.0,out
+597,36,Mahipal Lomror,Royal Challengers Bangalore,34,18,1,3,188.89,out
+598,36,Dinesh Karthik,Royal Challengers Bangalore,22,18,1,1,122.22,out
+599,36,Suyash Prabhudessai,Royal Challengers Bangalore,10,9,1,0,111.11,out
+600,36,Wanindu Hasaranga,Royal Challengers Bangalore,5,4,0,0,125.0,out
+601,36,David Willey,Royal Challengers Bangalore,11,10,1,0,110.0,not_out
+602,36,Vijaykumar Vyshak,Royal Challengers Bangalore,13,2,0,1,650.0,not_out
+603,37,Yashasvi Jaiswal,Rajasthan Royals,77,43,8,4,179.07,out
+604,37,Jos Buttler,Rajasthan Royals,27,21,4,0,128.57,out
+605,37,Sanju Samson,Rajasthan Royals,17,17,1,0,100.0,out
+606,37,Shimron Hetmyer,Rajasthan Royals,8,10,0,0,80.0,out
+607,37,Dhruv Jurel,Rajasthan Royals,34,15,3,2,226.67,out
+608,37,Devdutt Padikkal,Rajasthan Royals,27,13,5,0,207.69,not_out
+609,37,Ravichandran Ashwin,Rajasthan Royals,1,1,0,0,100.0,not_out
+610,37,Ruturaj Gaikwad,Chennai Super Kings,47,29,5,1,162.07,out
+611,37,Devon Conway,Chennai Super Kings,8,16,1,0,50.0,out
+612,37,Ajinkya Rahane,Chennai Super Kings,15,13,0,0,115.38,out
+613,37,Shivam Dube,Chennai Super Kings,52,33,2,4,157.58,out
+614,37,Ambati Rayudu,Chennai Super Kings,0,2,0,0,0.0,out
+615,37,Moeen Ali,Chennai Super Kings,23,12,2,2,191.67,out
+616,37,Ravindra Jadeja,Chennai Super Kings,23,15,3,0,153.33,not_out
+617,38,KL Rahul,Lucknow Super Giants,12,9,1,1,133.33,out
+618,38,Kyle Mayers,Lucknow Super Giants,54,24,7,4,225.0,out
+619,38,Ayush Badoni,Lucknow Super Giants,43,24,3,3,179.17,out
+620,38,Marcus Stoinis,Lucknow Super Giants,72,40,6,5,180.0,out
+621,38,Nicholas Pooran,Lucknow Super Giants,45,19,7,1,236.84,out
+622,38,Deepak Hooda,Lucknow Super Giants,11,6,2,0,183.33,not_out
+623,38,Krunal Pandya,Lucknow Super Giants,5,2,1,0,250.0,not_out
+624,38,Prabhsimran Singh,Punjab Kings,9,13,2,0,69.23,out
+625,38,Shikhar Dhawan,Punjab Kings,1,2,0,0,50.0,out
+626,38,Atharva Taide,Punjab Kings,66,36,8,2,183.33,out
+627,38,Sikandar Raza,Punjab Kings,36,22,4,1,163.64,out
+628,38,Liam Livingstone,Punjab Kings,23,14,2,1,164.29,out
+629,38,Sam Curran,Punjab Kings,21,11,2,1,190.91,out
+630,38,Jitesh Sharma,Punjab Kings,24,10,0,3,240.0,out
+631,38,Shahrukh Khan,Punjab Kings,6,9,0,0,66.67,out
+632,38,Rahul Chahar,Punjab Kings,0,1,0,0,0.0,out
+633,38,Kagiso Rabada,Punjab Kings,0,1,0,0,0.0,out
+634,38,Arshdeep Singh,Punjab Kings,2,2,0,0,100.0,not_out
+635,39,N Jagadeesan,Kolkata Knight Riders,19,15,4,0,126.67,out
+636,39,Rahmanullah Gurbaz,Kolkata Knight Riders,81,39,5,7,207.69,out
+637,39,Shardul Thakur,Kolkata Knight Riders,0,4,0,0,0.0,out
+638,39,Venkatesh Iyer,Kolkata Knight Riders,11,14,0,0,78.57,out
+639,39,Nitish Rana,Kolkata Knight Riders,4,3,1,0,133.33,out
+640,39,Rinku Singh,Kolkata Knight Riders,19,20,0,1,95.0,out
+641,39,Andre Russell,Kolkata Knight Riders,34,19,2,3,178.95,out
+642,39,David Wiese,Kolkata Knight Riders,8,6,0,1,133.33,not_out
+643,39,Wriddhiman Saha,Gujarat Titans,10,10,1,0,100.0,out
+644,39,Shubman Gill,Gujarat Titans,49,35,8,0,140.0,out
+645,39,Hardik Pandya,Gujarat Titans,26,20,2,1,130.0,out
+646,39,Vijay Shankar,Gujarat Titans,51,24,2,5,212.5,not_out
+647,39,David Miller,Gujarat Titans,32,18,2,2,177.78,not_out
+648,40,David Warner,Delhi Capitals,0,2,0,0,0.0,out
+649,40,Philip Salt,Delhi Capitals,59,35,9,0,168.57,out
+650,40,Mitchell Marsh,Delhi Capitals,63,39,1,6,161.54,out
+651,40,Manish Pandey,Delhi Capitals,1,3,0,0,33.33,out
+652,40,Priyam Garg,Delhi Capitals,12,9,1,0,133.33,out
+653,40,Sarfaraz Khan,Delhi Capitals,9,10,1,0,90.0,out
+654,40,Axar Patel,Delhi Capitals,29,14,1,2,207.14,not_out
+655,40,Ripal Patel,Delhi Capitals,11,8,1,0,137.5,not_out
+656,40,Harry Brook,Sunrisers Hyderabad,0,2,0,0,0.0,out
+657,40,Mayank Agarwal,Sunrisers Hyderabad,5,6,1,0,83.33,out
+658,40,Rahul Tripathi,Sunrisers Hyderabad,10,6,0,1,166.67,out
+659,40,Aiden Markram,Sunrisers Hyderabad,8,13,0,0,61.54,out
+660,40,Heinrich Klaasen,Sunrisers Hyderabad,53,27,2,4,196.3,not_out
+661,40,Abdul Samad,Sunrisers Hyderabad,28,21,1,2,133.33,out
+662,40,Akeal Hosein,Sunrisers Hyderabad,16,10,1,1,160.0,not_out
+663,40,Abhishek Sharma,Sunrisers Hyderabad,67,36,12,1,186.11,out
+664,41,Ruturaj Gaikwad,Chennai Super Kings,37,31,4,1,119.35,out
+665,41,Shivam Dube,Chennai Super Kings,28,17,1,2,164.71,not_out
+666,41,Devon Conway,Chennai Super Kings,92,52,16,1,176.92,out
+667,41,Moeen Ali,Chennai Super Kings,10,6,2,0,166.67,out
+668,41,Ravindra Jadeja,Chennai Super Kings,12,10,0,0,120.0,out
+669,41,MS Dhoni,Chennai Super Kings,13,4,0,2,325.0,not_out
+670,41,Prabhsimran Singh,Punjab Kings,42,24,4,2,175.0,out
+671,41,Shikhar Dhawan,Punjab Kings,28,15,4,1,186.67,out
+672,41,Atharva Taide,Punjab Kings,13,17,0,0,76.47,out
+673,41,Liam Livingstone,Punjab Kings,40,24,1,4,166.67,out
+674,41,Sam Curran,Punjab Kings,29,20,1,1,145.0,out
+675,41,Jitesh Sharma,Punjab Kings,21,10,2,1,210.0,out
+676,41,Shahrukh Khan,Punjab Kings,2,3,0,0,66.67,not_out
+677,41,Sikandar Raza,Punjab Kings,13,7,1,0,185.71,not_out
+678,42,Yashasvi Jaiswal,Rajasthan Royals,124,62,16,8,200.0,out
+679,42,Jos Buttler,Rajasthan Royals,18,19,2,1,94.74,out
+680,42,Sanju Samson,Rajasthan Royals,14,10,1,1,140.0,out
+681,42,Devdutt Padikkal,Rajasthan Royals,2,4,0,0,50.0,out
+682,42,Jason Holder,Rajasthan Royals,11,9,0,1,122.22,out
+683,42,Shimron Hetmyer,Rajasthan Royals,8,9,0,1,88.89,out
+684,42,Dhruv Jurel,Rajasthan Royals,2,3,0,0,66.67,out
+685,42,Ravichandran Ashwin,Rajasthan Royals,8,5,1,0,160.0,not_out
+686,42,Trent Boult,Rajasthan Royals,0,0,0,0,,not_out
+687,42,Rohit Sharma,Mumbai Indians,3,5,0,0,60.0,out
+688,42,Ishan Kishan,Mumbai Indians,28,23,4,0,121.74,out
+689,42,Cameron Green,Mumbai Indians,44,26,4,2,169.23,out
+690,42,Tilak Varma,Mumbai Indians,29,21,3,1,138.1,out
+691,42,Suryakumar Yadav,Mumbai Indians,55,29,8,2,189.66,not_out
+692,42,Tim David,Mumbai Indians,45,14,2,5,321.43,not_out
+693,43,Virat Kohli,Royal Challengers Bangalore,31,30,3,0,103.33,out
+694,43,Faf du Plessis,Royal Challengers Bangalore,44,40,1,1,110.0,out
+695,43,Anuj Rawat,Royal Challengers Bangalore,9,11,0,0,81.82,out
+696,43,Glenn Maxwell,Royal Challengers Bangalore,4,5,0,0,80.0,out
+697,43,Mahipal Lomror,Royal Challengers Bangalore,3,4,0,0,75.0,out
+698,43,Dinesh Karthik,Royal Challengers Bangalore,16,11,1,1,145.45,out
+699,43,Suyash Prabhudessai,Royal Challengers Bangalore,6,7,0,0,85.71,out
+700,43,Wanindu Hasaranga,Royal Challengers Bangalore,8,7,1,0,114.29,not_out
+701,43,Karn Sharma,Royal Challengers Bangalore,2,2,0,0,100.0,out
+702,43,Mohammed Siraj,Royal Challengers Bangalore,0,1,0,0,0.0,out
+703,43,Josh Hazlewood,Royal Challengers Bangalore,1,2,0,0,50.0,not_out
+704,43,Kyle Mayers,Lucknow Super Giants,0,2,0,0,0.0,out
+705,43,Ayush Badoni,Lucknow Super Giants,4,11,0,0,36.36,out
+706,43,Krunal Pandya,Lucknow Super Giants,14,11,3,0,127.27,out
+707,43,Deepak Hooda,Lucknow Super Giants,1,2,0,0,50.0,out
+708,43,Marcus Stoinis,Lucknow Super Giants,13,19,0,1,68.42,out
+709,43,Nicholas Pooran,Lucknow Super Giants,9,7,0,1,128.57,out
+710,43,Krishnappa Gowtham,Lucknow Super Giants,23,13,1,2,176.92,out
+711,43,Ravi Bishnoi,Lucknow Super Giants,5,10,0,0,50.0,out
+712,43,Amit Mishra,Lucknow Super Giants,19,30,2,0,63.33,out
+713,43,Naveen-ul-Haq,Lucknow Super Giants,13,13,2,0,100.0,out
+714,43,KL Rahul,Lucknow Super Giants,0,3,0,0,0.0,not_out
+715,44,Philip Salt,Delhi Capitals,0,1,0,0,0.0,out
+716,44,David Warner,Delhi Capitals,2,2,0,0,100.0,out
+717,44,Priyam Garg,Delhi Capitals,10,14,0,0,71.43,out
+718,44,Rilee Rossouw,Delhi Capitals,8,6,2,0,133.33,out
+719,44,Manish Pandey,Delhi Capitals,1,4,0,0,25.0,out
+720,44,Axar Patel,Delhi Capitals,27,30,2,1,90.0,out
+721,44,Aman Hakim Khan,Delhi Capitals,51,44,3,3,115.91,out
+722,44,Ripal Patel,Delhi Capitals,23,13,2,1,176.92,out
+723,44,Anrich Nortje,Delhi Capitals,3,6,0,0,50.0,not_out
+724,44,Kuldeep Yadav,Delhi Capitals,0,1,0,0,0.0,not_out
+725,44,Wriddhiman Saha,Gujarat Titans,0,6,0,0,0.0,out
+726,44,Shubman Gill,Gujarat Titans,6,7,1,0,85.71,out
+727,44,Hardik Pandya,Gujarat Titans,59,53,7,0,111.32,not_out
+728,44,Vijay Shankar,Gujarat Titans,6,9,1,0,66.67,out
+729,44,David Miller,Gujarat Titans,0,3,0,0,0.0,out
+730,44,Abhinav Manohar,Gujarat Titans,26,33,0,1,78.79,out
+731,44,Rahul Tewatia,Gujarat Titans,20,7,0,3,285.71,out
+732,44,Rashid Khan,Gujarat Titans,3,2,0,0,150.0,not_out
+733,45,Manan Vohra,Lucknow Super Giants,10,11,1,0,90.91,out
+734,45,Kyle Mayers,Lucknow Super Giants,14,17,2,0,82.35,out
+735,45,Karan Sharma,Lucknow Super Giants,9,16,0,0,56.25,out
+736,45,Krunal Pandya,Lucknow Super Giants,0,1,0,0,0.0,out
+737,45,Marcus Stoinis,Lucknow Super Giants,6,4,1,0,150.0,out
+738,45,Nicholas Pooran,Lucknow Super Giants,20,31,0,0,64.52,out
+739,45,Ayush Badoni,Lucknow Super Giants,59,33,2,4,178.79,not_out
+740,45,Krishnappa Gowtham,Lucknow Super Giants,1,3,0,0,33.33,out
+741,46,Prabhsimran Singh,Punjab Kings,9,7,1,0,128.57,out
+742,46,Shikhar Dhawan,Punjab Kings,30,20,5,0,150.0,out
+743,46,Matthew Short,Punjab Kings,27,26,2,1,103.85,out
+744,46,Liam Livingstone,Punjab Kings,82,42,7,4,195.24,not_out
+745,46,Jitesh Sharma,Punjab Kings,49,27,5,2,181.48,not_out
+746,46,Rohit Sharma,Mumbai Indians,0,3,0,0,0.0,out
+747,46,Ishan Kishan,Mumbai Indians,75,41,7,4,182.93,out
+748,46,Cameron Green,Mumbai Indians,23,18,4,0,127.78,out
+749,46,Suryakumar Yadav,Mumbai Indians,66,31,8,2,212.9,out
+750,46,Tim David,Mumbai Indians,19,10,3,0,190.0,not_out
+751,46,Tilak Varma,Mumbai Indians,26,10,1,3,260.0,not_out
+752,47,Jason Roy,Kolkata Knight Riders,20,19,4,0,105.26,out
+753,47,Rahmanullah Gurbaz,Kolkata Knight Riders,0,1,0,0,0.0,out
+754,47,Venkatesh Iyer,Kolkata Knight Riders,7,4,1,0,175.0,out
+755,47,Nitish Rana,Kolkata Knight Riders,42,31,3,3,135.48,out
+756,47,Rinku Singh,Kolkata Knight Riders,46,35,4,1,131.43,out
+757,47,Andre Russell,Kolkata Knight Riders,24,15,1,2,160.0,out
+758,47,Sunil Narine,Kolkata Knight Riders,1,2,0,0,50.0,out
+759,47,Shardul Thakur,Kolkata Knight Riders,8,6,1,0,133.33,out
+760,47,Anukul Roy,Kolkata Knight Riders,13,7,2,0,185.71,not_out
+761,47,Harshit Rana,Kolkata Knight Riders,0,1,0,0,0.0,out
+762,47,Vaibhav Arora,Kolkata Knight Riders,2,1,0,0,200.0,not_out
+763,47,Abhishek Sharma,Sunrisers Hyderabad,9,10,1,0,90.0,out
+764,47,Mayank Agarwal,Sunrisers Hyderabad,18,11,2,1,163.64,out
+765,47,Rahul Tripathi,Sunrisers Hyderabad,20,9,3,1,222.22,out
+766,47,Aiden Markram,Sunrisers Hyderabad,41,40,4,0,102.5,out
+767,47,Harry Brook,Sunrisers Hyderabad,0,4,0,0,0.0,out
+768,47,Heinrich Klaasen,Sunrisers Hyderabad,36,20,1,3,180.0,out
+769,47,Abdul Samad,Sunrisers Hyderabad,21,18,3,0,116.67,out
+770,47,Marco Jansen,Sunrisers Hyderabad,1,4,0,0,25.0,out
+771,47,Bhuvneshwar Kumar,Sunrisers Hyderabad,5,5,1,0,100.0,not_out
+772,47,Mayank Markande,Sunrisers Hyderabad,1,2,0,0,50.0,not_out
+773,48,Yashasvi Jaiswal,Rajasthan Royals,14,11,1,1,127.27,out
+774,48,Jos Buttler,Rajasthan Royals,8,6,2,0,133.33,out
+775,48,Sanju Samson,Rajasthan Royals,30,20,3,1,150.0,out
+776,48,Devdutt Padikkal,Rajasthan Royals,12,12,1,0,100.0,out
+777,48,Ravichandran Ashwin,Rajasthan Royals,2,6,0,0,33.33,out
+778,48,Riyan Parag,Rajasthan Royals,4,6,0,0,66.67,out
+779,48,Shimron Hetmyer,Rajasthan Royals,7,13,0,0,53.85,out
+780,48,Dhruv Jurel,Rajasthan Royals,9,8,1,0,112.5,out
+781,48,Trent Boult,Rajasthan Royals,15,11,1,1,136.36,out
+782,48,Adam Zampa,Rajasthan Royals,7,9,0,0,77.78,out
+783,48,Sandeep Sharma,Rajasthan Royals,2,5,0,0,40.0,not_out
+784,48,Wriddhiman Saha,Gujarat Titans,41,34,5,0,120.59,not_out
+785,48,Shubman Gill,Gujarat Titans,36,35,6,0,102.86,out
+786,48,Hardik Pandya,Gujarat Titans,39,15,3,3,260.0,not_out
+787,49,Cameron Green,Mumbai Indians,6,4,1,0,150.0,out
+788,49,Ishan Kishan,Mumbai Indians,7,9,1,0,77.78,out
+789,49,Rohit Sharma,Mumbai Indians,0,3,0,0,0.0,out
+790,49,Nehal Wadhera,Mumbai Indians,64,51,8,1,125.49,out
+791,49,Suryakumar Yadav,Mumbai Indians,26,22,3,0,118.18,out
+792,49,Tristan Stubbs,Mumbai Indians,20,21,2,0,95.24,out
+793,49,Tim David,Mumbai Indians,2,4,0,0,50.0,out
+794,49,Arshad Khan,Mumbai Indians,1,2,0,0,50.0,out
+795,49,Jofra Archer,Mumbai Indians,3,2,0,0,150.0,not_out
+796,49,Piyush Chawla,Mumbai Indians,2,2,0,0,100.0,not_out
+797,49,Ruturaj Gaikwad,Chennai Super Kings,30,16,4,2,187.5,out
+798,49,Devon Conway,Chennai Super Kings,44,42,4,0,104.76,out
+799,49,Ajinkya Rahane,Chennai Super Kings,21,17,1,1,123.53,out
+800,49,Ambati Rayudu,Chennai Super Kings,12,11,0,1,109.09,out
+801,49,Shivam Dube,Chennai Super Kings,26,18,0,3,144.44,not_out
+802,49,MS Dhoni,Chennai Super Kings,2,3,0,0,66.67,not_out
+803,50,David Warner,Delhi Capitals,22,14,3,1,157.14,out
+804,50,Philip Salt,Delhi Capitals,87,45,8,6,193.33,out
+805,50,Mitchell Marsh,Delhi Capitals,26,17,3,1,152.94,out
+806,50,Rilee Rossouw,Delhi Capitals,35,22,1,3,159.09,not_out
+807,50,Axar Patel,Delhi Capitals,8,3,0,1,266.67,not_out
+808,50,Virat Kohli,Royal Challengers Bangalore,55,46,5,0,119.57,out
+809,50,Faf du Plessis,Royal Challengers Bangalore,45,32,5,1,140.62,out
+810,50,Glenn Maxwell,Royal Challengers Bangalore,0,1,0,0,0.0,out
+811,50,Mahipal Lomror,Royal Challengers Bangalore,54,29,6,3,186.21,not_out
+812,50,Dinesh Karthik,Royal Challengers Bangalore,11,9,0,1,122.22,out
+813,50,Anuj Rawat,Royal Challengers Bangalore,8,3,0,1,266.67,not_out
+814,51,Wriddhiman Saha,Gujarat Titans,81,43,10,4,188.37,out
+815,51,Shubman Gill,Gujarat Titans,94,51,2,7,184.31,not_out
+816,51,Hardik Pandya,Gujarat Titans,25,15,1,2,166.67,out
+817,51,David Miller,Gujarat Titans,21,12,2,1,175.0,not_out
+818,51,Kyle Mayers,Lucknow Super Giants,48,32,7,2,150.0,out
+819,51,Quinton de Kock,Lucknow Super Giants,70,41,7,3,170.73,out
+820,51,Deepak Hooda,Lucknow Super Giants,11,11,0,0,100.0,out
+821,51,Marcus Stoinis,Lucknow Super Giants,4,9,0,0,44.44,out
+822,51,Nicholas Pooran,Lucknow Super Giants,3,6,0,0,50.0,out
+823,51,Ayush Badoni,Lucknow Super Giants,21,11,1,2,190.91,out
+824,51,Swapnil Singh,Lucknow Super Giants,2,4,0,0,50.0,not_out
+825,51,Krunal Pandya,Lucknow Super Giants,0,1,0,0,0.0,out
+826,51,Ravi Bishnoi,Lucknow Super Giants,4,5,1,0,80.0,not_out
+827,52,Yashasvi Jaiswal,Rajasthan Royals,35,18,5,2,194.44,out
+828,52,Jos Buttler,Rajasthan Royals,95,59,10,4,161.02,out
+829,52,Sanju Samson,Rajasthan Royals,66,38,4,5,173.68,not_out
+830,52,Shimron Hetmyer,Rajasthan Royals,7,5,0,0,140.0,not_out
+831,52,Anmolpreet Singh,Sunrisers Hyderabad,33,25,4,1,132.0,out
+832,52,Abhishek Sharma,Sunrisers Hyderabad,55,34,5,2,161.76,out
+833,52,Rahul Tripathi,Sunrisers Hyderabad,47,29,2,3,162.07,out
+834,52,Heinrich Klaasen,Sunrisers Hyderabad,26,12,2,2,216.67,out
+835,52,Aiden Markram,Sunrisers Hyderabad,6,5,1,0,120.0,out
+836,52,Glenn Phillips,Sunrisers Hyderabad,25,7,1,3,357.14,out
+837,52,Abdul Samad,Sunrisers Hyderabad,17,7,0,2,242.86,not_out
+838,52,Marco Jansen,Sunrisers Hyderabad,3,2,0,0,150.0,not_out
+839,53,Prabhsimran Singh,Punjab Kings,12,8,3,0,150.0,out
+840,53,Shikhar Dhawan,Punjab Kings,57,47,9,1,121.28,out
+841,53,Bhanuka Rajapaksa,Punjab Kings,0,3,0,0,0.0,out
+842,53,Liam Livingstone,Punjab Kings,15,9,3,0,166.67,out
+843,53,Jitesh Sharma,Punjab Kings,21,18,0,2,116.67,out
+844,53,Sam Curran,Punjab Kings,4,9,0,0,44.44,out
+845,53,Rishi Dhawan,Punjab Kings,19,11,1,1,172.73,out
+846,53,Shahrukh Khan,Punjab Kings,21,8,3,1,262.5,not_out
+847,53,Harpreet Brar,Punjab Kings,17,9,2,1,188.89,not_out
+848,53,Jason Roy,Kolkata Knight Riders,38,24,8,0,158.33,out
+849,53,Rahmanullah Gurbaz,Kolkata Knight Riders,15,12,1,1,125.0,out
+850,53,Nitish Rana,Kolkata Knight Riders,51,38,6,1,134.21,out
+851,53,Venkatesh Iyer,Kolkata Knight Riders,11,13,0,0,84.62,out
+852,53,Andre Russell,Kolkata Knight Riders,42,23,3,3,182.61,out
+853,53,Rinku Singh,Kolkata Knight Riders,21,10,2,1,210.0,not_out
+854,53,Shardul Thakur,Kolkata Knight Riders,0,0,0,0,,not_out
+855,54,Virat Kohli,Royal Challengers Bangalore,1,4,0,0,25.0,out
+856,54,Faf du Plessis,Royal Challengers Bangalore,65,41,5,3,158.54,out
+857,54,Anuj Rawat,Royal Challengers Bangalore,6,4,1,0,150.0,out
+858,54,Glenn Maxwell,Royal Challengers Bangalore,68,33,8,4,206.06,out
+859,54,Mahipal Lomror,Royal Challengers Bangalore,1,3,0,0,33.33,out
+860,54,Dinesh Karthik,Royal Challengers Bangalore,38,18,4,1,211.11,out
+861,54,Kedar Jadhav,Royal Challengers Bangalore,12,10,1,0,120.0,not_out
+862,54,Wanindu Hasaranga,Royal Challengers Bangalore,12,8,2,0,150.0,not_out
+863,54,Ishan Kishan,Mumbai Indians,42,21,4,4,200.0,out
+864,54,Rohit Sharma,Mumbai Indians,7,8,1,0,87.5,out
+865,54,Suryakumar Yadav,Mumbai Indians,83,35,7,6,237.14,out
+866,54,Nehal Wadhera,Mumbai Indians,52,34,4,3,152.94,not_out
+867,54,Tim David,Mumbai Indians,0,1,0,0,0.0,out
+868,54,Cameron Green,Mumbai Indians,2,2,0,0,100.0,not_out
+869,55,Ruturaj Gaikwad,Chennai Super Kings,24,18,4,0,133.33,out
+870,55,Devon Conway,Chennai Super Kings,10,13,1,0,76.92,out
+871,55,Ajinkya Rahane,Chennai Super Kings,21,20,2,0,105.0,out
+872,55,Moeen Ali,Chennai Super Kings,7,12,0,0,58.33,out
+873,55,Shivam Dube,Chennai Super Kings,25,12,0,3,208.33,out
+874,55,Ambati Rayudu,Chennai Super Kings,23,17,1,1,135.29,out
+875,55,Ravindra Jadeja,Chennai Super Kings,21,16,1,1,131.25,out
+876,55,MS Dhoni,Chennai Super Kings,20,9,1,2,222.22,out
+877,55,Deepak Chahar,Chennai Super Kings,1,2,0,0,50.0,not_out
+878,55,Tushar Deshpande,Chennai Super Kings,0,1,0,0,0.0,not_out
+879,55,David Warner,Delhi Capitals,0,2,0,0,0.0,out
+880,55,Philip Salt,Delhi Capitals,17,11,1,2,154.55,out
+881,55,Mitchell Marsh,Delhi Capitals,5,4,1,0,125.0,out
+882,55,Manish Pandey,Delhi Capitals,27,29,1,2,93.1,out
+883,55,Rilee Rossouw,Delhi Capitals,35,37,2,1,94.59,out
+884,55,Ripal Patel,Delhi Capitals,10,16,0,0,62.5,out
+885,55,Axar Patel,Delhi Capitals,21,12,2,1,175.0,out
+886,55,Aman Hakim Khan,Delhi Capitals,2,3,0,0,66.67,not_out
+887,55,Lalit Yadav,Delhi Capitals,12,5,3,0,240.0,out
+888,55,Kuldeep Yadav,Delhi Capitals,0,1,0,0,0.0,not_out
+889,56,Jason Roy,Kolkata Knight Riders,10,8,2,0,125.0,out
+890,56,Rahmanullah Gurbaz,Kolkata Knight Riders,18,12,1,2,150.0,out
+891,56,Venkatesh Iyer,Kolkata Knight Riders,57,42,2,4,135.71,out
+892,56,Nitish Rana,Kolkata Knight Riders,22,17,2,0,129.41,out
+893,56,Andre Russell,Kolkata Knight Riders,10,10,0,1,100.0,out
+894,56,Rinku Singh,Kolkata Knight Riders,16,18,0,1,88.89,out
+895,56,Shardul Thakur,Kolkata Knight Riders,1,2,0,0,50.0,out
+896,56,Anukul Roy,Kolkata Knight Riders,6,6,0,0,100.0,not_out
+897,56,Sunil Narine,Kolkata Knight Riders,6,5,1,0,120.0,out
+898,56,Yashasvi Jaiswal,Rajasthan Royals,98,47,13,5,208.51,not_out
+899,56,Jos Buttler,Rajasthan Royals,0,3,0,0,0.0,out
+900,56,Sanju Samson,Rajasthan Royals,48,29,2,5,165.52,not_out
+901,57,Ishan Kishan,Mumbai Indians,31,20,4,1,155.0,out
+902,57,Rohit Sharma,Mumbai Indians,29,18,3,2,161.11,out
+903,57,Suryakumar Yadav,Mumbai Indians,103,49,11,6,210.2,not_out
+904,57,Nehal Wadhera,Mumbai Indians,15,7,1,1,214.29,out
+905,57,Vishnu Vinod,Mumbai Indians,30,20,2,2,150.0,out
+906,57,Tim David,Mumbai Indians,5,3,1,0,166.67,out
+907,57,Cameron Green,Mumbai Indians,3,3,0,0,100.0,not_out
+908,57,Wriddhiman Saha,Gujarat Titans,2,5,0,0,40.0,out
+909,57,Shubman Gill,Gujarat Titans,6,9,0,0,66.67,out
+910,57,Hardik Pandya,Gujarat Titans,4,3,1,0,133.33,out
+911,57,Vijay Shankar,Gujarat Titans,29,14,6,0,207.14,out
+912,57,David Miller,Gujarat Titans,41,26,4,2,157.69,out
+913,57,Abhinav Manohar,Gujarat Titans,2,3,0,0,66.67,out
+914,57,Rahul Tewatia,Gujarat Titans,14,13,1,0,107.69,out
+915,57,Rashid Khan,Gujarat Titans,79,32,3,10,246.88,not_out
+916,57,Noor Ahmad,Gujarat Titans,1,3,0,0,33.33,out
+917,57,Alzarri Joseph,Gujarat Titans,7,12,1,0,58.33,not_out
+918,58,Anmolpreet Singh,Sunrisers Hyderabad,36,27,7,0,133.33,out
+919,58,Abhishek Sharma,Sunrisers Hyderabad,7,5,1,0,140.0,out
+920,58,Rahul Tripathi,Sunrisers Hyderabad,20,13,4,0,153.85,out
+921,58,Aiden Markram,Sunrisers Hyderabad,28,20,2,1,140.0,out
+922,58,Heinrich Klaasen,Sunrisers Hyderabad,47,29,3,3,162.07,out
+923,58,Glenn Phillips,Sunrisers Hyderabad,0,1,0,0,0.0,out
+924,58,Abdul Samad,Sunrisers Hyderabad,37,25,1,4,148.0,not_out
+925,58,Bhuvneshwar Kumar,Sunrisers Hyderabad,2,1,0,0,200.0,not_out
+926,58,Kyle Mayers,Lucknow Super Giants,2,14,0,0,14.29,out
+927,58,Quinton de Kock,Lucknow Super Giants,29,19,3,1,152.63,out
+928,58,Prerak Mankad,Lucknow Super Giants,64,45,7,2,142.22,not_out
+929,58,Marcus Stoinis,Lucknow Super Giants,40,25,2,3,160.0,out
+930,58,Nicholas Pooran,Lucknow Super Giants,44,13,3,4,338.46,not_out
+931,59,Prabhsimran Singh,Punjab Kings,103,65,10,6,158.46,out
+932,59,Shikhar Dhawan,Punjab Kings,7,5,0,1,140.0,out
+933,59,Liam Livingstone,Punjab Kings,4,5,1,0,80.0,out
+934,59,Jitesh Sharma,Punjab Kings,5,5,1,0,100.0,out
+935,59,Sam Curran,Punjab Kings,20,24,1,0,83.33,out
+936,59,Harpreet Brar,Punjab Kings,2,5,0,0,40.0,out
+937,59,Shahrukh Khan,Punjab Kings,2,4,0,0,50.0,out
+938,59,Sikandar Raza,Punjab Kings,11,7,0,1,157.14,not_out
+939,59,Rishi Dhawan,Punjab Kings,0,0,0,0,,not_out
+940,59,David Warner,Delhi Capitals,54,27,10,1,200.0,out
+941,59,Philip Salt,Delhi Capitals,21,17,3,0,123.53,out
+942,59,Mitchell Marsh,Delhi Capitals,3,4,0,0,75.0,out
+943,59,Rilee Rossouw,Delhi Capitals,5,5,1,0,100.0,out
+944,59,Axar Patel,Delhi Capitals,1,2,0,0,50.0,out
+945,59,Manish Pandey,Delhi Capitals,0,3,0,0,0.0,out
+946,59,Aman Hakim Khan,Delhi Capitals,16,18,1,1,88.89,out
+947,59,Praveen Dubey,Delhi Capitals,16,20,2,0,80.0,out
+948,59,Kuldeep Yadav,Delhi Capitals,10,17,0,0,58.82,not_out
+949,59,Mukesh Kumar,Delhi Capitals,6,7,0,0,85.71,not_out
+950,60,Virat Kohli,Royal Challengers Bangalore,18,19,1,0,94.74,out
+951,60,Faf du Plessis,Royal Challengers Bangalore,55,44,3,2,125.0,out
+952,60,Glenn Maxwell,Royal Challengers Bangalore,54,33,5,3,163.64,out
+953,60,Mahipal Lomror,Royal Challengers Bangalore,1,2,0,0,50.0,out
+954,60,Dinesh Karthik,Royal Challengers Bangalore,0,2,0,0,0.0,out
+955,60,Michael Bracewell,Royal Challengers Bangalore,9,9,0,0,100.0,not_out
+956,60,Anuj Rawat,Royal Challengers Bangalore,29,11,3,2,263.64,not_out
+957,60,Yashasvi Jaiswal,Rajasthan Royals,0,2,0,0,0.0,out
+958,60,Jos Buttler,Rajasthan Royals,0,2,0,0,0.0,out
+959,60,Sanju Samson,Rajasthan Royals,4,5,1,0,80.0,out
+960,60,Joe Root,Rajasthan Royals,10,15,1,0,66.67,out
+961,60,Devdutt Padikkal,Rajasthan Royals,4,4,1,0,100.0,out
+962,60,Shimron Hetmyer,Rajasthan Royals,35,19,1,4,184.21,out
+963,60,Dhruv Jurel,Rajasthan Royals,1,7,0,0,14.29,out
+964,60,Ravichandran Ashwin,Rajasthan Royals,0,0,0,0,,out
+965,60,Adam Zampa,Rajasthan Royals,2,6,0,0,33.33,out
+966,60,Sandeep Sharma,Rajasthan Royals,0,1,0,0,0.0,not_out
+967,60,KM Asif,Rajasthan Royals,0,2,0,0,0.0,out
+968,61,Ruturaj Gaikwad,Chennai Super Kings,17,13,2,0,130.77,out
+969,61,Devon Conway,Chennai Super Kings,30,28,3,0,107.14,out
+970,61,Ajinkya Rahane,Chennai Super Kings,16,11,1,1,145.45,out
+971,61,Ambati Rayudu,Chennai Super Kings,4,7,0,0,57.14,out
+972,61,Shivam Dube,Chennai Super Kings,48,34,1,3,141.18,not_out
+973,61,Moeen Ali,Chennai Super Kings,1,2,0,0,50.0,out
+974,61,Ravindra Jadeja,Chennai Super Kings,20,24,0,1,83.33,out
+975,61,MS Dhoni,Chennai Super Kings,2,3,0,0,66.67,not_out
+976,61,Jason Roy,Kolkata Knight Riders,12,15,1,0,80.0,out
+977,61,Rahmanullah Gurbaz,Kolkata Knight Riders,1,4,0,0,25.0,out
+978,61,Venkatesh Iyer,Kolkata Knight Riders,9,4,2,0,225.0,out
+979,61,Nitish Rana,Kolkata Knight Riders,57,44,6,1,129.55,not_out
+980,61,Rinku Singh,Kolkata Knight Riders,54,43,4,3,125.58,out
+981,61,Andre Russell,Kolkata Knight Riders,2,2,0,0,100.0,not_out
+982,62,Wriddhiman Saha,Gujarat Titans,0,3,0,0,0.0,out
+983,62,Shubman Gill,Gujarat Titans,101,58,13,1,174.14,out
+984,62,Sai Sudharsan,Gujarat Titans,47,36,6,1,130.56,out
+985,62,Hardik Pandya,Gujarat Titans,8,6,1,0,133.33,out
+986,62,David Miller,Gujarat Titans,7,5,1,0,140.0,out
+987,62,Rahul Tewatia,Gujarat Titans,3,3,0,0,100.0,out
+988,62,Dasun Shanaka,Gujarat Titans,9,7,1,0,128.57,not_out
+989,62,Rashid Khan,Gujarat Titans,0,1,0,0,0.0,out
+990,62,Noor Ahmad,Gujarat Titans,0,1,0,0,0.0,out
+991,62,Mohammed Shami,Gujarat Titans,0,1,0,0,0.0,out
+992,62,Mohit Sharma,Gujarat Titans,0,1,0,0,0.0,not_out
+993,62,Anmolpreet Singh,Sunrisers Hyderabad,5,4,1,0,125.0,out
+994,62,Abhishek Sharma,Sunrisers Hyderabad,4,5,1,0,80.0,out
+995,62,Aiden Markram,Sunrisers Hyderabad,10,10,1,0,100.0,out
+996,62,Rahul Tripathi,Sunrisers Hyderabad,1,2,0,0,50.0,out
+997,62,Heinrich Klaasen,Sunrisers Hyderabad,64,44,4,3,145.45,out
+998,62,Sanvir Singh,Sunrisers Hyderabad,7,6,0,1,116.67,out
+999,62,Abdul Samad,Sunrisers Hyderabad,4,3,1,0,133.33,out
+1000,62,Marco Jansen,Sunrisers Hyderabad,3,6,0,0,50.0,out
+1001,62,Bhuvneshwar Kumar,Sunrisers Hyderabad,27,26,3,0,103.85,out
+1002,62,Mayank Markande,Sunrisers Hyderabad,18,9,2,1,200.0,not_out
+1003,62,Fazalhaq Farooqi,Sunrisers Hyderabad,1,5,0,0,20.0,not_out
+1004,63,Deepak Hooda,Lucknow Super Giants,5,7,0,0,71.43,out
+1005,63,Quinton de Kock,Lucknow Super Giants,16,15,0,2,106.67,out
+1006,63,Prerak Mankad,Lucknow Super Giants,0,1,0,0,0.0,out
+1007,63,Krunal Pandya,Lucknow Super Giants,49,42,1,1,116.67,out
+1008,63,Marcus Stoinis,Lucknow Super Giants,89,47,4,8,189.36,not_out
+1009,63,Nicholas Pooran,Lucknow Super Giants,8,8,1,0,100.0,not_out
+1010,63,Ishan Kishan,Mumbai Indians,59,39,8,1,151.28,out
+1011,63,Rohit Sharma,Mumbai Indians,37,25,1,3,148.0,out
+1012,63,Suryakumar Yadav,Mumbai Indians,7,9,0,0,77.78,out
+1013,63,Nehal Wadhera,Mumbai Indians,16,20,2,0,80.0,out
+1014,63,Vishnu Vinod,Mumbai Indians,2,4,0,0,50.0,not_out
+1015,63,Tim David,Mumbai Indians,32,19,1,3,168.42,out
+1016,63,Cameron Green,Mumbai Indians,4,6,0,0,66.67,not_out
+1017,64,David Warner,Delhi Capitals,46,31,5,2,148.39,out
+1018,64,Prithvi Shaw,Delhi Capitals,54,38,7,1,142.11,out
+1019,64,Rilee Rossouw,Delhi Capitals,82,37,6,6,221.62,not_out
+1020,64,Philip Salt,Delhi Capitals,26,14,2,2,185.71,not_out
+1021,64,Prabhsimran Singh,Punjab Kings,22,19,4,0,115.79,out
+1022,64,Shikhar Dhawan,Punjab Kings,0,1,0,0,0.0,out
+1023,64,Atharva Taide,Punjab Kings,55,42,5,2,130.95,out
+1024,64,Liam Livingstone,Punjab Kings,94,48,5,9,195.83,out
+1025,64,Jitesh Sharma,Punjab Kings,0,3,0,0,0.0,out
+1026,64,Shahrukh Khan,Punjab Kings,6,3,0,1,200.0,out
+1027,64,Sam Curran,Punjab Kings,11,5,1,1,220.0,out
+1028,64,Harpreet Brar,Punjab Kings,0,1,0,0,0.0,out
+1029,64,Rahul Chahar,Punjab Kings,0,0,0,0,,not_out
+1030,65,Abhishek Sharma,Sunrisers Hyderabad,11,14,2,0,78.57,out
+1031,65,Rahul Tripathi,Sunrisers Hyderabad,15,12,2,1,125.0,out
+1032,65,Aiden Markram,Sunrisers Hyderabad,18,20,0,0,90.0,out
+1033,65,Heinrich Klaasen,Sunrisers Hyderabad,104,51,8,6,203.92,out
+1034,65,Harry Brook,Sunrisers Hyderabad,27,19,2,1,142.11,not_out
+1035,65,Glenn Phillips,Sunrisers Hyderabad,5,4,1,0,125.0,out
+1036,65,Virat Kohli,Royal Challengers Bangalore,100,63,12,4,158.73,out
+1037,65,Faf du Plessis,Royal Challengers Bangalore,71,47,7,2,151.06,out
+1038,65,Glenn Maxwell,Royal Challengers Bangalore,5,3,1,0,166.67,not_out
+1039,65,Michael Bracewell,Royal Challengers Bangalore,4,4,0,0,100.0,not_out
+1040,66,Prabhsimran Singh,Punjab Kings,2,2,0,0,100.0,out
+1041,66,Shikhar Dhawan,Punjab Kings,17,12,2,1,141.67,out
+1042,66,Atharva Taide,Punjab Kings,19,12,3,1,158.33,out
+1043,66,Liam Livingstone,Punjab Kings,9,13,1,0,69.23,out
+1044,66,Sam Curran,Punjab Kings,49,31,4,2,158.06,not_out
+1045,66,Jitesh Sharma,Punjab Kings,44,28,3,3,157.14,out
+1046,66,Shahrukh Khan,Punjab Kings,41,23,4,2,178.26,not_out
+1047,66,Yashasvi Jaiswal,Rajasthan Royals,50,36,8,0,138.89,out
+1048,66,Jos Buttler,Rajasthan Royals,0,4,0,0,0.0,out
+1049,66,Devdutt Padikkal,Rajasthan Royals,51,30,5,3,170.0,out
+1050,66,Sanju Samson,Rajasthan Royals,2,3,0,0,66.67,out
+1051,66,Shimron Hetmyer,Rajasthan Royals,46,28,4,3,164.29,out
+1052,66,Riyan Parag,Rajasthan Royals,20,12,1,2,166.67,out
+1053,66,Dhruv Jurel,Rajasthan Royals,10,4,0,1,250.0,not_out
+1054,66,Trent Boult,Rajasthan Royals,1,2,0,0,50.0,not_out
+1055,67,Ruturaj Gaikwad,Chennai Super Kings,79,50,3,7,158.0,out
+1056,67,Devon Conway,Chennai Super Kings,87,52,11,3,167.31,out
+1057,67,Shivam Dube,Chennai Super Kings,22,9,0,3,244.44,out
+1058,67,MS Dhoni,Chennai Super Kings,5,4,0,0,125.0,not_out
+1059,67,Ravindra Jadeja,Chennai Super Kings,20,7,3,1,285.71,not_out
+1060,67,Prithvi Shaw,Delhi Capitals,5,7,1,0,71.43,out
+1061,67,David Warner,Delhi Capitals,86,58,7,5,148.28,out
+1062,67,Philip Salt,Delhi Capitals,3,6,0,0,50.0,out
+1063,67,Rilee Rossouw,Delhi Capitals,0,1,0,0,0.0,out
+1064,67,Yash Dhull,Delhi Capitals,13,15,1,0,86.67,out
+1065,67,Axar Patel,Delhi Capitals,15,8,1,1,187.5,out
+1066,67,Aman Hakim Khan,Delhi Capitals,7,9,1,0,77.78,out
+1067,67,Lalit Yadav,Delhi Capitals,6,12,0,0,50.0,out
+1068,67,Anrich Nortje,Delhi Capitals,0,1,0,0,0.0,not_out
+1069,67,Kuldeep Yadav,Delhi Capitals,0,1,0,0,0.0,out
+1070,67,Chetan Sakariya,Delhi Capitals,0,2,0,0,0.0,not_out
+1071,68,Karan Sharma,Lucknow Super Giants,3,5,0,0,60.0,out
+1072,68,Quinton de Kock,Lucknow Super Giants,28,27,0,2,103.7,out
+1073,68,Prerak Mankad,Lucknow Super Giants,26,20,5,0,130.0,out
+1074,68,Marcus Stoinis,Lucknow Super Giants,0,2,0,0,0.0,out
+1075,68,Krunal Pandya,Lucknow Super Giants,9,8,0,1,112.5,out
+1076,68,Krunal Pandya,Lucknow Super Giants,25,21,2,1,119.05,out
+1077,68,Nicholas Pooran,Lucknow Super Giants,58,30,4,5,193.33,out
+1078,68,Krishnappa Gowtham,Lucknow Super Giants,11,4,1,1,275.0,not_out
+1079,68,Ravi Bishnoi,Lucknow Super Giants,2,2,0,0,100.0,out
+1080,68,Naveen-ul-Haq,Lucknow Super Giants,2,3,0,0,66.67,not_out
+1081,68,Jason Roy,Kolkata Knight Riders,45,28,7,1,160.71,out
+1082,68,Venkatesh Iyer,Kolkata Knight Riders,24,15,3,1,160.0,out
+1083,68,Nitish Rana,Kolkata Knight Riders,8,10,1,0,80.0,out
+1084,68,Rahmanullah Gurbaz,Kolkata Knight Riders,10,15,0,0,66.67,out
+1085,68,Rinku Singh,Kolkata Knight Riders,67,33,6,4,203.03,not_out
+1086,68,Andre Russell,Kolkata Knight Riders,7,9,0,1,77.78,out
+1087,68,Shardul Thakur,Kolkata Knight Riders,3,7,0,0,42.86,out
+1088,68,Sunil Narine,Kolkata Knight Riders,1,2,0,0,50.0,out
+1089,68,Vaibhav Arora,Kolkata Knight Riders,1,1,0,0,100.0,not_out
+1090,69,Vivrant Sharma,Sunrisers Hyderabad,69,47,9,2,146.81,out
+1091,69,Mayank Agarwal,Sunrisers Hyderabad,83,46,8,4,180.43,out
+1092,69,Heinrich Klaasen,Sunrisers Hyderabad,18,13,2,0,138.46,out
+1093,69,Glenn Phillips,Sunrisers Hyderabad,1,4,0,0,25.0,out
+1094,69,Aiden Markram,Sunrisers Hyderabad,13,7,0,1,185.71,not_out
+1095,69,Harry Brook,Sunrisers Hyderabad,0,1,0,0,0.0,out
+1096,69,Sanvir Singh,Sunrisers Hyderabad,4,3,1,0,133.33,not_out
+1097,69,Ishan Kishan,Mumbai Indians,14,12,1,1,116.67,out
+1098,69,Rohit Sharma,Mumbai Indians,56,37,8,1,151.35,out
+1099,69,Cameron Green,Mumbai Indians,100,47,8,8,212.77,not_out
+1100,69,Suryakumar Yadav,Mumbai Indians,25,16,4,0,156.25,not_out
+1101,70,Virat Kohli,Royal Challengers Bangalore,101,61,13,1,165.57,not_out
+1102,70,Faf du Plessis,Royal Challengers Bangalore,28,19,5,0,147.37,out
+1103,70,Glenn Maxwell,Royal Challengers Bangalore,11,5,1,1,220.0,out
+1104,70,Mahipal Lomror,Royal Challengers Bangalore,1,3,0,0,33.33,out
+1105,70,Michael Bracewell,Royal Challengers Bangalore,26,16,5,0,162.5,out
+1106,70,Dinesh Karthik,Royal Challengers Bangalore,0,1,0,0,0.0,out
+1107,70,Anuj Rawat,Royal Challengers Bangalore,23,15,1,1,153.33,not_out
+1108,70,Wriddhiman Saha,Gujarat Titans,12,14,2,0,85.71,out
+1109,70,Shubman Gill,Gujarat Titans,104,52,5,8,200.0,not_out
+1110,70,Vijay Shankar,Gujarat Titans,53,35,7,2,151.43,out
+1111,70,Dasun Shanaka,Gujarat Titans,0,3,0,0,0.0,out
+1112,70,David Miller,Gujarat Titans,6,7,1,0,85.71,out
+1113,70,Rahul Tewatia,Gujarat Titans,4,5,0,0,80.0,not_out
